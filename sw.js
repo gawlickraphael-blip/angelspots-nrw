@@ -39,6 +39,12 @@ self.addEventListener('activate', event => {
   );
 });
 
+self.addEventListener('message', event => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
+
 async function networkFirst(request, fallbackUrl = '/index.html') {
   const cache = await caches.open(CACHE_VERSION);
   try {
