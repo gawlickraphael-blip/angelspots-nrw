@@ -1,0 +1,217 @@
+{
+  "Aal": {
+    "scientific": "Anguilla anguilla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Anguilla_anguilla.jpg",
+    "description": "Schlangenförmiger, nachtaktiver Wanderfisch. Der Europäische Aal ist stark gefährdet; Fang und Entnahme deshalb besonders sorgfältig mit aktueller Gewässerordnung prüfen.",
+    "season": "NRW-Basis: keine einfache Schonzeit-Angabe in der App hinterlegt; lokale/aktuelle Aal-Regeln unbedingt prüfen.",
+    "minSizeCm": "50 cm als konservativer Praxiswert prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Aal"
+  },
+  "Bachforelle": {
+    "scientific": "Salmo trutta fario",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bachforelle_Zeichnung.jpg",
+    "description": "Salmonide aus kühlen, sauerstoffreichen Bächen und Flüssen. Oft standorttreu und empfindlich gegenüber Temperatur, Niedrigwasser und Gewässerverbauung.",
+    "season": "Schonzeit NRW-Basis: 20.10.–15.03. prüfen; Gewässerordnung kann strenger sein.",
+    "minSizeCm": "25 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Bachforelle"
+  },
+  "Barbe": {
+    "scientific": "Barbus barbus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Barbe_Tiergarten_Schoenbrunn_%28cropped%29.jpg/960px-Barbe_Tiergarten_Schoenbrunn_%28cropped%29.jpg",
+    "description": "Kräftiger Strömungsfisch aus der Familie der Karpfenfische. Typisch für kiesige Flussabschnitte; kämpft stark und wird häufig beim Feedern gefangen.",
+    "season": "Laichzeit im Frühjahr/Frühsommer besonders beachten; genaue NRW-/Gewässerregel prüfen.",
+    "minSizeCm": "35 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Barbe"
+  },
+  "Barsch": {
+    "scientific": "Perca fluviatilis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Perca_fluviatilis.jpg",
+    "description": "Gestreifter Raubfisch, oft in Schwärmen unterwegs. Frisst Kleinfische, Insektenlarven und Krebse; beliebt beim leichten Spinnfischen.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln und Entnahmefenster prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Flussbarsch"
+  },
+  "Brasse": {
+    "scientific": "Abramis brama",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Carp_bream.jpg/960px-Carp_bream.jpg",
+    "description": "Hochrückiger Friedfisch aus langsameren Flüssen, Kanälen und Seen. Häufiger Zielfisch beim Feedern und Stippen.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/Brasse_(Fisch)"
+  },
+  "Brassen": {
+    "alias": "Brasse"
+  },
+  "Döbel": {
+    "scientific": "Squalius cephalus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Squalius_cephalus_Prague_Vltava_2.jpg/960px-Squalius_cephalus_Prague_Vltava_2.jpg",
+    "description": "Anpassungsfähiger Karpfenfisch, der auch Kleinfische und Oberflächenfutter nimmt. Häufig in Flüssen und strukturreichen Uferbereichen.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/D%C3%B6bel"
+  },
+  "Forelle": {
+    "alias": "Bachforelle"
+  },
+  "Groppe": {
+    "scientific": "Cottus gobio",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CottusGobioSpreadingFins.JPG/960px-CottusGobioSpreadingFins.JPG",
+    "description": "Kleiner Grundfisch sauberer, sauerstoffreicher Gewässer. Kein typischer Zielfisch; Vorkommen ist eher ein Hinweis auf Gewässerqualität.",
+    "season": "Nicht als Zielfisch behandeln; Schutzstatus/lokale Regeln prüfen.",
+    "minSizeCm": "nicht entnehmen",
+    "source": "https://de.wikipedia.org/wiki/Groppe"
+  },
+  "Hasel": {
+    "scientific": "Leuciscus leuciscus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Leuciscus_leuciscus.jpg",
+    "description": "Kleinwüchsiger, silbriger Karpfenfisch strömender Gewässer. Für die Praxis meist Beifang und kein Hauptzielfisch.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/Hasel_(Fisch)"
+  },
+  "Hecht": {
+    "scientific": "Esox lucius",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Europ%C3%A4ischer_Hecht.jpg/960px-Europ%C3%A4ischer_Hecht.jpg",
+    "description": "Großer Raubfisch mit Entenschnabel-Kopf. Steht häufig an Kraut, Kanten und Deckung; wichtig ist die Schonzeit während der Laichphase.",
+    "season": "Schonzeit NRW-Basis: 15.02.–30.04. prüfen; währenddessen gezieltes Hechtangeln vermeiden.",
+    "minSizeCm": "45 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Hecht"
+  },
+  "Karpfen": {
+    "scientific": "Cyprinus carpio",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Common_carp.jpg",
+    "description": "Bekannter Friedfisch in Seen, Teichen, Kanälen und langsameren Flüssen. Häufig Ziel beim Ansitzangeln mit Boilies, Mais oder Partikeln.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln und Entnahmefenster prüfen.",
+    "minSizeCm": "35 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Karpfen"
+  },
+  "Lachsforelle": {
+    "alias": "Regenbogenforelle"
+  },
+  "Meerforelle": {
+    "scientific": "Salmo trutta trutta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bachforelle_Zeichnung.jpg",
+    "description": "Wanderform der Forelle. In Binnengewässern besonders sorgfältig behandeln, da Schutz- und Aufstiegsregeln relevant sein können.",
+    "season": "Schonzeit NRW-Basis häufig wie Forellen/Salmoniden prüfen: 20.10.–15.03.; lokale Regeln können strenger sein.",
+    "minSizeCm": "50 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Meerforelle"
+  },
+  "Nase": {
+    "scientific": "Chondrostoma nasus",
+    "image": "assets/fish-placeholder.svg",
+    "description": "Strömungsliebender Karpfenfisch mit unterständigem Maul. In vielen Flüssen durch Lebensraumverlust empfindlich; Entnahme sehr vorsichtig prüfen.",
+    "season": "Laichzeit im Frühjahr beachten; genaue NRW-/Gewässerregel prüfen.",
+    "minSizeCm": "30 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Nase_(Fisch)"
+  },
+  "Rapfen": {
+    "scientific": "Leuciscus aspius / Aspius aspius",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aspius_aspius_Prague_Vltava_1.jpg/960px-Aspius_aspius_Prague_Vltava_1.jpg",
+    "description": "Schneller, oberflächenaktiver Raubfisch aus der Karpfenfamilie. Typisch sind Jagden auf Kleinfisch an Buhnen, Strömungskanten und Häfen.",
+    "season": "Keine sichere NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "40 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Rapfen"
+  },
+  "Regenbogenforelle": {
+    "scientific": "Oncorhynchus mykiss",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oncorhynchus_mykiss_2009_G1.jpg/960px-Oncorhynchus_mykiss_2009_G1.jpg",
+    "description": "Häufig besetzte Salmonidenart, besonders in Angelteichen und Forellenseen. Aktivitätsfenster hängen stark von Temperatur und Sauerstoff ab.",
+    "season": "Keine allgemeine NRW-Basis-Schonzeit in der App hinterlegt; Betreiber-/Gewässerordnung prüfen.",
+    "minSizeCm": "25 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Regenbogenforelle"
+  },
+  "Renke": {
+    "scientific": "Coregonus spp.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coregonus_lavaretus.jpg/960px-Coregonus_lavaretus.jpg",
+    "description": "Schwarmfisch kühler, tiefer Seen. Regional auch Felchen/Maräne genannt; in NRW eher gewässerspezifisch relevant.",
+    "season": "Gewässerspezifische Salmoniden-/Renkenregeln prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/Coregonus"
+  },
+  "Rotauge": {
+    "scientific": "Rutilus rutilus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rutilus_rutilus_Prague_Vltava_2.jpg/960px-Rutilus_rutilus_Prague_Vltava_2.jpg",
+    "description": "Sehr häufiger Friedfisch in Seen, Flüssen und Kanälen. Wichtig als Beutefisch für Räuber und klassischer Zielfisch beim Stippen.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/Rotauge"
+  },
+  "Saibling": {
+    "scientific": "Salvelinus spp.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Salvelinus_alpinus.jpg/960px-Salvelinus_alpinus.jpg",
+    "description": "Salmonide kühler, sauberer Gewässer; in der Praxis oft als Besatzfisch in Forellenanlagen oder tiefen Seen relevant.",
+    "season": "Salmoniden-/Gewässerordnung prüfen; lokale Betreiberregeln können maßgeblich sein.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/Saiblinge"
+  },
+  "Schleie": {
+    "scientific": "Tinca tinca",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tinca_tinca_Prague_Vltava_1.jpg/960px-Tinca_tinca_Prague_Vltava_1.jpg",
+    "description": "Robuster Friedfisch mit olivgrüner Färbung, oft in krautigen, warmen Stillgewässern. Besonders aktiv in der warmen Jahreszeit.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "25 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Schleie"
+  },
+  "Seeforelle": {
+    "scientific": "Salmo trutta lacustris",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Salmo_trutta_lacustris.jpg/960px-Salmo_trutta_lacustris.jpg",
+    "description": "Großwüchsige Forellenform großer Seen und Talsperren. Schutz- und Entnahmeregeln sind stark gewässerspezifisch.",
+    "season": "Schonzeit NRW-Basis häufig wie Forellen/Salmoniden prüfen: 20.10.–15.03.; lokale Regeln können strenger sein.",
+    "minSizeCm": "50 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Seeforelle"
+  },
+  "Stör": {
+    "scientific": "Acipenseridae",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Acipenser_sturio.jpg/960px-Acipenser_sturio.jpg",
+    "description": "Urtümliche Fischgruppe; in NRW praktisch meist Besatzfisch in Anlagen, natürliche Arten sind streng schutzrelevant.",
+    "season": "Betreiber-/Gewässerordnung prüfen; natürliche Störe nicht als Entnahmeziel behandeln.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/St%C3%B6re"
+  },
+  "Waller": {
+    "alias": "Wels"
+  },
+  "Wels": {
+    "scientific": "Silurus glanis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Silurus_glanis_02.jpg/960px-Silurus_glanis_02.jpg",
+    "description": "Sehr großer, nachtaktiver Raubfisch mit Barteln. In großen Flüssen, Seen und Kanälen möglich; starkes Gerät und sichere Landung sind wichtig.",
+    "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
+    "minSizeCm": "lokal prüfen",
+    "source": "https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Wels"
+  },
+  "Weißfisch": {
+    "scientific": "verschiedene Cypriniden",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rutilus_rutilus_Prague_Vltava_2.jpg/960px-Rutilus_rutilus_Prague_Vltava_2.jpg",
+    "description": "Sammelbegriff für mehrere Friedfischarten wie Rotauge, Brasse oder Döbel. Für genaue Regeln immer die konkrete Art bestimmen.",
+    "season": "Art bestimmen und lokale Regeln prüfen.",
+    "minSizeCm": "artabhängig prüfen",
+    "source": "https://recht.nrw.de/"
+  },
+  "Zander": {
+    "scientific": "Sander lucioperca",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sander_lucioperca_2.jpg/960px-Sander_lucioperca_2.jpg",
+    "description": "Lichtscheuer Raubfisch mit Glasaugen und spitzen Zähnen. Häufig an Kanten, Steinpackungen, Häfen und trübem Wasser; Schonzeit besonders beachten.",
+    "season": "Schonzeit NRW-Basis: 01.04.–31.05. prüfen; währenddessen gezieltes Zanderangeln vermeiden.",
+    "minSizeCm": "40 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/Zander"
+  },
+  "Äsche": {
+    "scientific": "Thymallus thymallus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Thymallus_thymallus_%28aka%29.jpg/960px-Thymallus_thymallus_%28aka%29.jpg",
+    "description": "Edler Salmonide mit großer Rückenfahne, typisch für klare, sauerstoffreiche Flüsse. Bestände sind vielerorts empfindlich.",
+    "season": "Schonzeit NRW-Basis: 01.03.–30.04. prüfen; lokale Schutzregeln können strenger sein.",
+    "minSizeCm": "30 cm prüfen",
+    "source": "https://recht.nrw.de/ und https://de.wikipedia.org/wiki/%C3%84sche"
+  },
+  "nicht bewertet": {
+    "scientific": "—",
+    "image": "assets/fish-placeholder.svg",
+    "description": "Für diesen Datensatz ist noch keine konkrete Fischart bewertet. Bitte nicht als Fangempfehlung verstehen.",
+    "season": "Keine Art bestimmt; Regeln nicht ableitbar.",
+    "minSizeCm": "nicht anwendbar",
+    "source": "https://recht.nrw.de/"
+  },
+  "nicht relevant": {
+    "alias": "nicht bewertet"
+  }
+}

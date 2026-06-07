@@ -12,6 +12,13 @@ const requiredSnippets = [
   ['OSM-Route', 'www.openstreetmap.org/directions'],
   ['Event-Propagation für List-Buttons', 'event.stopPropagation()'],
   ['Mobile Aktionsbuttons', 'class="actions"'],
+  ['Fischarten-Modal', 'id="fishModal"'],
+  ['Fischprofile-Daten', 'data/fish_profiles.json'],
+  ['Fischprofil öffnen', 'function openFishProfile'],
+  ['Schonzeiten-Funktion', 'function seasonStatus'],
+  ['Schonzeiten-Hinweis', 'Schonzeit'],
+  ['Mindestmaß-Hinweis', 'Mindestmaß'],
+  ['Klickbare Fisch-Chips', 'fishBtn'],
 ];
 
 for (const file of files) {

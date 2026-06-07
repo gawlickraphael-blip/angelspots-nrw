@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Fisch Symbol">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#16d2aa"/>
+      <stop offset="1" stop-color="#2f80ed"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" rx="44" fill="#061014"/>
+  <circle cx="205" cy="110" r="170" fill="#16d2aa" opacity="0.18"/>
+  <circle cx="755" cy="90" r="190" fill="#2f80ed" opacity="0.16"/>
+  <path d="M170 270c115-125 306-139 462-44l103-74c18-13 43 2 40 24l-15 88 15 88c3 22-22 37-40 24l-103-74c-156 95-347 81-462-44-8-9-8-23 0-32z" fill="url(#g)"/>
+  <circle cx="286" cy="244" r="17" fill="#061014"/>
+  <path d="M395 180c-42 57-42 114 0 170" fill="none" stroke="#061014" stroke-opacity="0.45" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="458" text-anchor="middle" fill="#f4fbfa" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">Fischprofil</text>
+</svg>
