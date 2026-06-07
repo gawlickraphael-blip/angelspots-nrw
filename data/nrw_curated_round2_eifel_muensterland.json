@@ -1,0 +1,346 @@
+[
+  {
+    "id": "ae-oleftalsperre-hellenthal",
+    "name": "Oleftalsperre Hellenthal",
+    "region": "Aachen/Eifel",
+    "lat": 50.4823,
+    "lng": 6.4378,
+    "type": "Talsperre",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Karpfen",
+      "Forelle"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Posenangeln"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Zonen-/Schonzeitregeln prüfen.",
+    "source": "https://www.hellenthal.de/",
+    "notes": "Eifel-Talsperre; Teilbereiche können gesperrt sein."
+  },
+  {
+    "id": "ae-kronenburger-see",
+    "name": "Kronenburger See",
+    "region": "Aachen/Eifel",
+    "lat": 50.3619,
+    "lng": 6.4781,
+    "type": "Stausee/Freizeitsee",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnisschein erforderlich; saisonale Freizeit- und Uferzonen beachten.",
+    "source": "https://www.kronenburger-see.de/",
+    "notes": "Westliche Eifel, Bade-/Freizeitbereiche beachten."
+  },
+  {
+    "id": "ae-freilinger-see",
+    "name": "Freilinger See Blankenheim",
+    "region": "Aachen/Eifel",
+    "lat": 50.4259,
+    "lng": 6.6652,
+    "type": "Freizeitsee",
+    "status": "limited",
+    "score": 60,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Grundangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Fischereischein und Tages-/Gastkarte bzw. Vereinsregelung erforderlich; Badezonen respektieren.",
+    "source": "https://www.blankenheim.de/",
+    "notes": "Eifel-See außerhalb Rur-/Urft-System."
+  },
+  {
+    "id": "ae-steinbachtalsperre",
+    "name": "Steinbachtalsperre Euskirchen",
+    "region": "Aachen/Eifel",
+    "lat": 50.5577,
+    "lng": 6.8002,
+    "type": "Talsperre/Freizeitsee",
+    "status": "unclear",
+    "score": 50,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Posenangeln"
+    ],
+    "legal": "Aktuelle Freigabe, Sanierungsstatus, Erlaubnisscheine und Sperrzonen prüfen.",
+    "source": "https://www.euskirchen.de/",
+    "notes": "Nach Hochwasser-/Sanierungsphasen konservativ unklar."
+  },
+  {
+    "id": "ae-stausee-obermaubach",
+    "name": "Stausee Obermaubach",
+    "region": "Aachen/Eifel",
+    "lat": 50.7318,
+    "lng": 6.4427,
+    "type": "Stausee",
+    "status": "limited",
+    "score": 60,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Karpfen",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnisschein und lokale Stauraum-/Uferregeln erforderlich.",
+    "source": "https://www.kreuzau.de/",
+    "notes": "Zusätzlicher Rur-Stausee-Kandidat."
+  },
+  {
+    "id": "ae-perlenbach-monschau",
+    "name": "Perlenbach Monschau-Höfen",
+    "region": "Aachen/Eifel",
+    "lat": 50.5338,
+    "lng": 6.2546,
+    "type": "kleines Fließgewässer/Schutzgebiet",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Naturschutz-/Wasserschutzregeln; keine Spot-Empfehlung ohne belegte Fischereierlaubnis.",
+    "source": "https://www.naturpark-eifel.de/",
+    "notes": "Ökologisch sensibler Bach, Warnmarker."
+  },
+  {
+    "id": "ae-kalltalsperre",
+    "name": "Kalltalsperre Simmerath",
+    "region": "Aachen/Eifel",
+    "lat": 50.646,
+    "lng": 6.305,
+    "type": "Trinkwassertalsperre",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Trinkwasser-/Talsperren-/Schutzgebiet; Angeln konservativ als nicht zulässig einstufen.",
+    "source": "https://www.wver.de/",
+    "notes": "Talsperren-Ausschluss."
+  },
+  {
+    "id": "ae-vichtbach-zweifall",
+    "name": "Vichtbach Zweifall/Stolberg",
+    "region": "Aachen/Eifel",
+    "lat": 50.7162,
+    "lng": 6.2621,
+    "type": "kleines Fließgewässer",
+    "status": "unclear",
+    "score": 40,
+    "fish": [
+      "Bachforelle",
+      "Döbel"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "leichtes Spinnfischen"
+    ],
+    "legal": "Nur mit bestätigtem Fischereirecht/Gastkarte; viele Bachstrecken sind Vereins-/Schutzstrecken.",
+    "source": "https://www.stolberg.de/",
+    "notes": "Bach-Kandidat im Raum Aachen/Eifel."
+  },
+  {
+    "id": "ae-angelpark-kommern",
+    "name": "Angelpark Kommern",
+    "region": "Aachen/Eifel",
+    "lat": 50.6108,
+    "lng": 6.6504,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 60,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Karpfen",
+      "Stör"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Kommerzieller Angelpark; Betreiberregeln, Öffnungszeiten und Fanglimits beachten.",
+    "source": "https://www.google.com/search?q=Angelpark+Kommern",
+    "notes": "Paylake-Kandidat in der Eifel."
+  },
+  {
+    "id": "ms-drilandsee-gronau",
+    "name": "Drilandsee Gronau",
+    "region": "Münsterland",
+    "lat": 52.1961,
+    "lng": 7.0257,
+    "type": "Freizeitsee",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnisschein/Gastkarte und lokale Uferzonen beachten; Badebereiche meiden.",
+    "source": "https://www.gronau.de/",
+    "notes": "Westmünsterland-See nahe Grenze."
+  },
+  {
+    "id": "ms-torfvennteich-vreden",
+    "name": "Torfvennteich Vreden",
+    "region": "Münsterland",
+    "lat": 52.0698,
+    "lng": 6.7952,
+    "type": "Vereinssee/Teich",
+    "status": "limited",
+    "score": 50,
+    "fish": [
+      "Karpfen",
+      "Schleie",
+      "Barsch",
+      "Hecht"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Vereins- bzw. Gastkartenregelung prüfen; nicht mit Angelparadies Vreden verwechseln.",
+    "source": "https://www.vreden.de/",
+    "notes": "Westmünsterland-Kandidat."
+  },
+  {
+    "id": "ms-berkel-stadtlohn",
+    "name": "Berkel bei Stadtlohn",
+    "region": "Münsterland",
+    "lat": 51.9967,
+    "lng": 6.9181,
+    "type": "Fließgewässer",
+    "status": "limited",
+    "score": 60,
+    "fish": [
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Aal"
+    ],
+    "methods": [
+      "leichtes Spinnfischen",
+      "Posenangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein plus Erlaubnisschein der zuständigen Strecke; Schonstrecken prüfen.",
+    "source": "https://www.stadtlohn.de/",
+    "notes": "Streckenbezogener Kandidat."
+  },
+  {
+    "id": "ms-stever-olfen",
+    "name": "Stever bei Olfen",
+    "region": "Münsterland",
+    "lat": 51.7116,
+    "lng": 7.3829,
+    "type": "Fließgewässer",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Döbel",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein der Pachtstrecke erforderlich; Naturschutz-/Uferregeln beachten.",
+    "source": "https://www.olfen.de/",
+    "notes": "Interessanter Stever-Abschnitt außerhalb Haltern."
+  },
+  {
+    "id": "ms-ems-emsdetten-sinningen",
+    "name": "Ems bei Emsdetten/Sinningen",
+    "region": "Münsterland",
+    "lat": 52.1473,
+    "lng": 7.5447,
+    "type": "Fließgewässer",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Aal",
+      "Döbel"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Ems-Streckenerlaubnis/Gastkarte erforderlich; Naturschutz- und Schonzeitregeln beachten.",
+    "source": "https://www.emsdetten.de/",
+    "notes": "Zusätzlicher Ems-Abschnitt."
+  },
+  {
+    "id": "ms-dinkel-gronau-epe",
+    "name": "Dinkel bei Gronau-Epe",
+    "region": "Münsterland",
+    "lat": 52.2097,
+    "lng": 7.0251,
+    "type": "kleines Fließgewässer",
+    "status": "limited",
+    "score": 50,
+    "fish": [
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Aal"
+    ],
+    "methods": [
+      "leichtes Spinnfischen",
+      "Posenangeln",
+      "Feedern"
+    ],
+    "legal": "Streckenerlaubnis erforderlich; Grenz-/Naturschutzregeln beachten.",
+    "source": "https://www.gronau.de/",
+    "notes": "Kleiner Westmünsterland-Fluss."
+  }
+]

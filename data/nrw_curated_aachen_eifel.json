@@ -1,0 +1,357 @@
+[
+  {
+    "id": "rursee-schwammenauel",
+    "name": "Rursee/Rurtalsperre Schwammenauel",
+    "region": "Aachen/Eifel",
+    "lat": 50.636,
+    "lng": 6.391,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 95,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Renke",
+      "Forelle",
+      "Karpfen",
+      "Aal"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Rurseefischerei-Regeln, Boots-/Uferzonen beachten.",
+    "source": "https://www.rurseefischerei.de/ ; https://www.rursee.de/",
+    "notes": "Sehr gut belegtes Großgewässer mit Gastkartenstruktur."
+  },
+  {
+    "id": "obersee-rurberg-einruhr",
+    "name": "Obersee Rurberg/Einruhr",
+    "region": "Aachen/Eifel",
+    "lat": 50.595,
+    "lng": 6.383,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 90,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Renke",
+      "Forelle",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Ansitzangeln"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Trinkwasser-/Schutzzonen und Rurseefischerei-Regeln beachten.",
+    "source": "https://www.rurseefischerei.de/",
+    "notes": "Teil des Rurseesystems; nur freigegebene Ufer."
+  },
+  {
+    "id": "blausteinsee-eschweiler",
+    "name": "Blausteinsee Eschweiler",
+    "region": "Aachen/Eifel",
+    "lat": 50.866,
+    "lng": 6.296,
+    "type": "See",
+    "status": "public",
+    "score": 88,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Ansitzangeln"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Nutzungsordnung und Sperrbereiche beachten.",
+    "source": "https://www.blausteinsee.com/ ; https://www.angelverein-eschweiler.de/",
+    "notes": "Tagebaufolgessee mit dokumentierter Angelmöglichkeit."
+  },
+  {
+    "id": "urftsee-urfttalsperre",
+    "name": "Urftsee/Urfttalsperre",
+    "region": "Aachen/Eifel",
+    "lat": 50.604,
+    "lng": 6.444,
+    "type": "Talsperre",
+    "status": "limited",
+    "score": 72,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Forelle",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Uferangeln in freigegebenen Bereichen",
+      "Spinnfischen nach Erlaubnis"
+    ],
+    "legal": "Nur mit ausdrücklicher Erlaubnis; Nationalpark-/Talsperren-/Betretungsregeln streng beachten.",
+    "source": "https://www.rurseefischerei.de/ ; https://www.nationalpark-eifel.de/",
+    "notes": "Sensibles Gewässer im Nationalparkumfeld."
+  },
+  {
+    "id": "rur-heimbach-nideggen",
+    "name": "Rur Heimbach–Nideggen",
+    "region": "Aachen/Eifel",
+    "lat": 50.672,
+    "lng": 6.472,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 82,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel",
+      "Barbe",
+      "Aal"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "Spinnfischen",
+      "leichtes Naturköderangeln"
+    ],
+    "legal": "Streckenbezogener Erlaubnisschein; Vereins-/Schon-/Fliegenstrecken prüfen.",
+    "source": "https://www.rurseefischerei.de/",
+    "notes": "Attraktiver Mittelgebirgsfluss, abschnittsweise Pächter."
+  },
+  {
+    "id": "rur-dueren",
+    "name": "Rur Stadtgebiet Düren",
+    "region": "Aachen/Eifel",
+    "lat": 50.806,
+    "lng": 6.482,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 76,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern"
+    ],
+    "legal": "Nur freigegebene/pachtete Strecken mit Erlaubnisschein; innerstädtische Verbote beachten.",
+    "source": "https://www.dueren.de/",
+    "notes": "Gut erreichbar, Erlaubnislage abschnittsweise."
+  },
+  {
+    "id": "kall-simonskall",
+    "name": "Kall bei Simonskall/Hürtgenwald",
+    "region": "Aachen/Eifel",
+    "lat": 50.646,
+    "lng": 6.361,
+    "type": "Bach/Fluss",
+    "status": "limited",
+    "score": 78,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "ultraleichtes Spinnfischen"
+    ],
+    "legal": "Nur mit Pächter-/Vereins-Erlaubnis; Salmonidenregeln/Naturschutz beachten.",
+    "source": "https://www.huertgenwald.de/",
+    "notes": "Klassisches Eifel-Salmonidengewässer."
+  },
+  {
+    "id": "inde-stolberg-eschweiler",
+    "name": "Inde Stolberg–Eschweiler",
+    "region": "Aachen/Eifel",
+    "lat": 50.817,
+    "lng": 6.257,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Döbel",
+      "Barbe",
+      "Bachforelle",
+      "Barsch",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "leichtes Ansitzangeln"
+    ],
+    "legal": "Vereins-/Pächtergewässer; Fischereischein + Erlaubnisschein erforderlich.",
+    "source": "https://www.angelverein-eschweiler.de/",
+    "notes": "Renaturierte Abschnitte, Zuständigkeiten prüfen."
+  },
+  {
+    "id": "wurm-aachen-herzogenrath",
+    "name": "Wurm Aachen/Würselen/Herzogenrath",
+    "region": "Aachen/Eifel",
+    "lat": 50.844,
+    "lng": 6.103,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 68,
+    "fish": [
+      "Döbel",
+      "Barbe",
+      "Barsch",
+      "Aal",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Ansitzangeln"
+    ],
+    "legal": "Nur freigegebene Vereins-/Pachtstrecken; innerstädtische und renaturierte Abschnitte prüfen.",
+    "source": "https://www.staedteregion-aachen.de/",
+    "notes": "Regional bekanntes Fließgewässer, abschnittsweise geregelt."
+  },
+  {
+    "id": "lucherberger-see-inden",
+    "name": "Lucherberger See/Inden",
+    "region": "Aachen/Eifel",
+    "lat": 50.868,
+    "lng": 6.365,
+    "type": "See",
+    "status": "limited",
+    "score": 64,
+    "fish": [
+      "Karpfen",
+      "Schleie",
+      "Hecht",
+      "Barsch",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Karpfenangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Erlaubnis des zuständigen Vereins/Pächters erforderlich; Ufer-/Naturschutzregeln beachten.",
+    "source": "https://www.inden.de/",
+    "notes": "Kleinerer See, Gastkartenlage vor Veröffentlichung prüfen."
+  },
+  {
+    "id": "duerener-badesee",
+    "name": "Dürener Badesee",
+    "region": "Aachen/Eifel",
+    "lat": 50.829,
+    "lng": 6.474,
+    "type": "See",
+    "status": "limited",
+    "score": 63,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Bade-/Freizeitsee; nur mit ausdrücklicher Erlaubnis außerhalb gesperrter Bereiche.",
+    "source": "https://www.dueren.de/",
+    "notes": "Nicht als frei zugänglicher Angelplatz darstellen."
+  },
+  {
+    "id": "echtzer-see-dueren",
+    "name": "Echtzer See",
+    "region": "Aachen/Eifel",
+    "lat": 50.813,
+    "lng": 6.411,
+    "type": "See",
+    "status": "unclear",
+    "score": 48,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Angelrecht und Gastkartenlage beim Eigentümer/Pächter klären.",
+    "source": "https://www.dueren.de/",
+    "notes": "Öffentlich sichtbarer See, aber keine robuste Tageskartenstruktur."
+  },
+  {
+    "id": "angelpark-breinig-stolberg",
+    "name": "Angelpark Breinig/Stolberg",
+    "region": "Aachen/Eifel",
+    "lat": 50.738,
+    "lng": 6.217,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 73,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Karpfen"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Hausordnung/Tageskarte/Besatz- und Fangregeln beim Betreiber prüfen.",
+    "source": "https://www.google.com/search?q=Angelpark+Breinig+Stolberg",
+    "notes": "Kommerzielle Teichanlage; Betriebsdaten aktuell gegenprüfen."
+  },
+  {
+    "id": "dreilaegerbachtalsperre-roetgen",
+    "name": "Dreilägerbachtalsperre Roetgen",
+    "region": "Aachen/Eifel",
+    "lat": 50.66,
+    "lng": 6.213,
+    "type": "Talsperre",
+    "status": "closed",
+    "score": 20,
+    "fish": [
+      "nicht relevant"
+    ],
+    "methods": [],
+    "legal": "Trinkwassertalsperre; öffentliches Angeln nicht freigegeben.",
+    "source": "https://www.wasserverband-eifel-rur.de/",
+    "notes": "Negativ-/Ausschlussdatensatz."
+  },
+  {
+    "id": "wehebachtalsperre",
+    "name": "Wehebachtalsperre",
+    "region": "Aachen/Eifel",
+    "lat": 50.724,
+    "lng": 6.342,
+    "type": "Talsperre",
+    "status": "closed",
+    "score": 18,
+    "fish": [
+      "nicht relevant"
+    ],
+    "methods": [],
+    "legal": "Trinkwasser- und Schutzgebiet; öffentliches Angeln nicht freigegeben.",
+    "source": "https://www.wasserverband-eifel-rur.de/",
+    "notes": "Nicht als Angelspot empfehlen."
+  }
+]

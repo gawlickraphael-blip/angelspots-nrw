@@ -1,0 +1,378 @@
+[
+  {
+    "id": "muensterland-dortmund-ems-kanal-muenster-stadthafen",
+    "name": "Dortmund-Ems-Kanal Münster/Stadthafen",
+    "region": "Münsterland",
+    "lat": 51.9539,
+    "lng": 7.6448,
+    "type": "Kanal",
+    "status": "public",
+    "score": 80,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Karpfen",
+      "Brassen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein + Kanalerlaubniskarte; Hafen-/Betriebsbereiche beachten.",
+    "source": "https://www.lfv-westfalen.de/",
+    "notes": "Urbaner Kanalabschnitt mit Spundwänden."
+  },
+  {
+    "id": "muensterland-dortmund-ems-kanal-hiltrup-amelsbueren",
+    "name": "Dortmund-Ems-Kanal Hiltrup/Amelsbüren",
+    "region": "Münsterland",
+    "lat": 51.8856,
+    "lng": 7.6107,
+    "type": "Kanal",
+    "status": "public",
+    "score": 76,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Kanalerlaubnis + Fischereischein; Brücken-/Schleusen-/Betriebsregeln beachten.",
+    "source": "https://www.lfv-westfalen.de/",
+    "notes": "Ruhigerer Kanalbereich südlich Münster."
+  },
+  {
+    "id": "muensterland-dek-greven-reckenfeld",
+    "name": "Dortmund-Ems-Kanal Greven/Reckenfeld",
+    "region": "Münsterland",
+    "lat": 52.0869,
+    "lng": 7.6006,
+    "type": "Kanal",
+    "status": "public",
+    "score": 74,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Kanalerlaubnis erforderlich; Schifffahrts-/Betretungsregeln beachten.",
+    "source": "https://www.lfv-westfalen.de/",
+    "notes": "Steinpackungen und Brückenbereiche."
+  },
+  {
+    "id": "muensterland-wdk-haltern-flaesheim",
+    "name": "Wesel-Datteln-Kanal Haltern-Flaesheim",
+    "region": "Münsterland",
+    "lat": 51.7372,
+    "lng": 7.1536,
+    "type": "Kanal",
+    "status": "public",
+    "score": 76,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Hecht",
+      "Brassen",
+      "Karpfen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Fischereischein + Kanalerlaubnis; Schleusen-/Betriebsbereiche beachten.",
+    "source": "https://www.lfv-westfalen.de/",
+    "notes": "Randlage Hohe Mark/Haltern."
+  },
+  {
+    "id": "muensterland-halterner-stausee",
+    "name": "Halterner Stausee",
+    "region": "Münsterland",
+    "lat": 51.7483,
+    "lng": 7.2047,
+    "type": "See",
+    "status": "limited",
+    "score": 80,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern"
+    ],
+    "legal": "Nur mit Erlaubnis des Bewirtschafters/Vereins; Wassergewinnung, Natur- und Uferzonen beachten.",
+    "source": "https://www.haltern-am-see.de/",
+    "notes": "Bekanntes Gewässer, Erlaubnis aktuell prüfen."
+  },
+  {
+    "id": "muensterland-silbersee-ii-haltern",
+    "name": "Silbersee II Haltern",
+    "region": "Münsterland",
+    "lat": 51.7706,
+    "lng": 7.2222,
+    "type": "Baggersee",
+    "status": "unclear",
+    "score": 50,
+    "fish": [
+      "Barsch",
+      "Hecht",
+      "Karpfen",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Keine pauschale öffentliche Angelfreigabe; nur mit belegter Erlaubnis.",
+    "source": "https://www.haltern-am-see.de/",
+    "notes": "Freizeit-/Naturschutzinteressen stark."
+  },
+  {
+    "id": "muensterland-ems-warendorf",
+    "name": "Ems bei Warendorf",
+    "region": "Münsterland",
+    "lat": 51.9514,
+    "lng": 7.9879,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 72,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Döbel",
+      "Aal",
+      "Barbe",
+      "Brassen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Posenangeln"
+    ],
+    "legal": "Nur freigegebene Vereins-/Pachtstrecken mit Erlaubniskarte.",
+    "source": "https://www.kreis-warendorf.de/",
+    "notes": "Abwechslungsreicher Emsabschnitt."
+  },
+  {
+    "id": "muensterland-ems-telgte",
+    "name": "Ems bei Telgte",
+    "region": "Münsterland",
+    "lat": 51.9813,
+    "lng": 7.7869,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Döbel",
+      "Aal",
+      "Brassen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Posenangeln"
+    ],
+    "legal": "Erlaubnis für jeweiligen Abschnitt; Schutzgebiete beachten.",
+    "source": "https://www.telgte.de/",
+    "notes": "Beliebter Emsbereich östlich Münster."
+  },
+  {
+    "id": "muensterland-ems-rheine",
+    "name": "Ems bei Rheine",
+    "region": "Münsterland",
+    "lat": 52.2762,
+    "lng": 7.4409,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 80,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Döbel",
+      "Aal",
+      "Barbe"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Nur freigegebene Strecken; Wehre/Fischaufstiege/Sperrzonen beachten.",
+    "source": "https://www.rheine.de/",
+    "notes": "Strukturierter Emsabschnitt."
+  },
+  {
+    "id": "muensterland-werse-handorf-angelmodde",
+    "name": "Werse Münster-Handorf/Angelmodde",
+    "region": "Münsterland",
+    "lat": 51.9462,
+    "lng": 7.7057,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Aal",
+      "Döbel",
+      "Schleie"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Vereins-/Pachtgewässer; nur mit Erlaubniskarte und Schonstrecken beachten.",
+    "source": "https://www.asv-fruehauf-muenster.de/",
+    "notes": "Klassisches Münsteraner Fließgewässer."
+  },
+  {
+    "id": "muensterland-aasee-muenster",
+    "name": "Aasee Münster",
+    "region": "Münsterland",
+    "lat": 51.9519,
+    "lng": 7.6074,
+    "type": "See",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Posenangeln"
+    ],
+    "legal": "Nur mit Vereinserlaubnis in freigegebenen Bereichen; städtische Nutzungsregeln beachten.",
+    "source": "https://www.asv-fruehauf-muenster.de/",
+    "notes": "Zentraler Stadtsee mit viel Publikumsverkehr."
+  },
+  {
+    "id": "muensterland-haddorfer-seen",
+    "name": "Haddorfer Seen Wettringen",
+    "region": "Münsterland",
+    "lat": 52.2248,
+    "lng": 7.3721,
+    "type": "Baggersee",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubniskarte/Vereinsberechtigung; Bade-/Camping-/Naturschutzbereiche beachten.",
+    "source": "https://www.wettringen.de/",
+    "notes": "Freizeitseegebiet im Kreis Steinfurt."
+  },
+  {
+    "id": "muensterland-proebstingsee-borken",
+    "name": "Pröbstingsee Borken",
+    "region": "Münsterland",
+    "lat": 51.8672,
+    "lng": 6.8905,
+    "type": "See",
+    "status": "unclear",
+    "score": 50,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Nur mit eindeutig belegter Berechtigung; Uferfreigaben klären.",
+    "source": "https://www.borken.de/",
+    "notes": "Freizeitsee, Tageskartenlage unklar."
+  },
+  {
+    "id": "muensterland-bocholter-aa-bocholt",
+    "name": "Bocholter Aa bei Bocholt",
+    "region": "Münsterland",
+    "lat": 51.8384,
+    "lng": 6.6151,
+    "type": "Bach/Fluss",
+    "status": "limited",
+    "score": 60,
+    "fish": [
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Rotauge"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnis für jeweiligen Pachtabschnitt; Renaturierungs-/Schutzbereiche beachten.",
+    "source": "https://www.bocholt.de/",
+    "notes": "Kleineres Westmünsterland-Fließgewässer."
+  },
+  {
+    "id": "muensterland-angelparadies-vreden",
+    "name": "Angelparadies Vreden",
+    "region": "Münsterland",
+    "lat": 52.0378,
+    "lng": 6.8235,
+    "type": "Forellenanlage",
+    "status": "public",
+    "score": 62,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Stör",
+      "Karpfen"
+    ],
+    "methods": [
+      "Posenangeln",
+      "Grundangeln",
+      "Sbirolino"
+    ],
+    "legal": "Kommerzielle Anlage; Anlagenkarte/Hausordnung/Öffnungszeiten beachten.",
+    "source": "https://www.vreden.de/",
+    "notes": "Besatz und Regeln vor Besuch prüfen."
+  }
+]

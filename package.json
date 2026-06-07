@@ -1,0 +1,11 @@
+{
+  "name": "angelspots-nrw",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Statische Angelspots-NRW/Hagen-Web-App mit Karte, Ortssuche, Standort und Live-Wetter.",
+  "scripts": {
+    "serve": "python3 -m http.server 8766 --bind 127.0.0.1",
+    "check": "node scripts/check-inline-js.mjs && python3 -m json.tool manifest.webmanifest >/dev/null"
+  },
+  "devDependencies": {}
+}

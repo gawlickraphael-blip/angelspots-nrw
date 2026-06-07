@@ -1,0 +1,363 @@
+[
+  {
+    "id": "owl-lippesee-paderborn",
+    "name": "Lippesee Paderborn-Sande",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.7417,
+    "lng": 8.6654,
+    "type": "See",
+    "status": "limited",
+    "score": 80,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Posenangeln"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Ufer-/Schon-/Nutzungszonen beachten.",
+    "source": "https://www.lippesee.de/ ; https://www.fischereiverein-paderborn.de/",
+    "notes": "Großes Freizeitgewässer, konservativ limited."
+  },
+  {
+    "id": "owl-schiedersee-emmerstausee",
+    "name": "SchiederSee/Emmerstausee",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.9221,
+    "lng": 9.1572,
+    "type": "Stausee",
+    "status": "public",
+    "score": 80,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Brassen",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Grundangeln"
+    ],
+    "legal": "Fischereischein + Angelkarte/Gastkarte; Sperrzonen und Boots-/Uferregeln beachten.",
+    "source": "https://www.schiedersee.de/",
+    "notes": "Öffentlich beworbene Angelkartenstruktur."
+  },
+  {
+    "id": "owl-weser-minden",
+    "name": "Weser bei Minden",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.2899,
+    "lng": 8.9141,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 80,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Barbe",
+      "Döbel",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnisschein für freigegebene Weserstrecken; Schifffahrt/Hafengebiete beachten.",
+    "source": "https://www.minden.de/",
+    "notes": "Stark nachgefragte Flussstrecke."
+  },
+  {
+    "id": "owl-weser-porta-westfalica",
+    "name": "Weser bei Porta Westfalica",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.2399,
+    "lng": 8.9223,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 78,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Hecht",
+      "Barbe",
+      "Döbel",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnisschein; Weserdurchbruch/NSG/Schifffahrtsregeln prüfen.",
+    "source": "https://www.portawestfalica.de/",
+    "notes": "Attraktive Weserstrecke, Rechte je Pachtstrecke."
+  },
+  {
+    "id": "owl-weser-hoexter-godelheim",
+    "name": "Weser Höxter/Godelheim",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.7756,
+    "lng": 9.3796,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 72,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Barsch",
+      "Zander",
+      "Aal",
+      "Brassen"
+    ],
+    "methods": [
+      "Feedern",
+      "Spinnfischen",
+      "Grundangeln"
+    ],
+    "legal": "Erlaubnis für jeweilige Weserstrecke; NSG-/Uferbetretungsregeln beachten.",
+    "source": "https://www.hoexter-tourismus.de/",
+    "notes": "Bekannte Weserstrecke."
+  },
+  {
+    "id": "owl-godelheimer-seen-hoexter",
+    "name": "Godelheimer Seen",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.7468,
+    "lng": 9.3902,
+    "type": "See",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Grundangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Nur freigegebene Bereiche mit Erlaubnisschein; Bade-/Freizeitbereiche ausnehmen.",
+    "source": "https://www.hoexter-tourismus.de/",
+    "notes": "Freizeitseen an der Weser."
+  },
+  {
+    "id": "owl-werre-herford",
+    "name": "Werre bei Herford",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.1166,
+    "lng": 8.6767,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 62,
+    "fish": [
+      "Bachforelle",
+      "Döbel",
+      "Barsch",
+      "Aal",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Posenangeln",
+      "Feedern"
+    ],
+    "legal": "Vereins-/Pachtstrecken; Erlaubnisschein notwendig.",
+    "source": "https://www.herford.de/",
+    "notes": "Urbaner Werreabschnitt."
+  },
+  {
+    "id": "owl-huecker-moor-spenge",
+    "name": "Hücker Moor Spenge",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.1587,
+    "lng": 8.5013,
+    "type": "See/Moor",
+    "status": "limited",
+    "score": 62,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Rotauge"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Nur mit Erlaubnis; Moor-/Uferzonen/Vogelschutz beachten.",
+    "source": "https://www.spenge.de/",
+    "notes": "Sensibles Kleinsee-/Moorgewässer."
+  },
+  {
+    "id": "owl-obersee-bielefeld",
+    "name": "Obersee Bielefeld",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.0493,
+    "lng": 8.5682,
+    "type": "See",
+    "status": "limited",
+    "score": 60,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Keine freie Angelei; örtliche Vereins-/Erlaubnisregelung beachten.",
+    "source": "https://www.bielefeld.de/",
+    "notes": "Stadtnah, hoher Freizeitdruck."
+  },
+  {
+    "id": "owl-ems-rietberg",
+    "name": "Ems bei Rietberg",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.8074,
+    "lng": 8.4315,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 64,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Döbel",
+      "Aal",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Posenangeln",
+      "Feedern"
+    ],
+    "legal": "Erlaubnis für jeweilige Pachtstrecke; Natur-/Uferbereiche prüfen.",
+    "source": "https://www.rietberg.de/",
+    "notes": "Sensible Niederungslandschaft."
+  },
+  {
+    "id": "owl-lippe-paderborn-schloss-neuhaus",
+    "name": "Lippe Paderborn/Schloß Neuhaus",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.7461,
+    "lng": 8.7115,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Bachforelle",
+      "Äsche",
+      "Barsch",
+      "Hecht",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein; FFH-/Renaturierungsbereiche und Schonstrecken beachten.",
+    "source": "https://www.paderborn.de/ ; https://www.fischereiverein-paderborn.de/",
+    "notes": "Interessantes Fließgewässer, vereinsabhängig."
+  },
+  {
+    "id": "owl-boker-heide-kanal-delbrueck",
+    "name": "Boker-Heide-Kanal bei Delbrück",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.7717,
+    "lng": 8.5629,
+    "type": "Kanal",
+    "status": "limited",
+    "score": 55,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Schleie",
+      "Karpfen",
+      "Aal"
+    ],
+    "methods": [
+      "Posenangeln",
+      "Grundangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Erlaubnis des Fischereirechtsinhabers; Kanalabschnitte/Betriebsanlagen beachten.",
+    "source": "https://www.delbrueck.de/",
+    "notes": "Historisches Kleinkanalgewässer."
+  },
+  {
+    "id": "owl-aabach-talsperre-bad-wuennenberg",
+    "name": "Aabach-Talsperre",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.5353,
+    "lng": 8.7296,
+    "type": "Talsperre",
+    "status": "closed",
+    "score": 15,
+    "fish": [],
+    "methods": [],
+    "legal": "Trinkwassertalsperre; öffentliches Angeln/Uferbetreten in der Regel nicht zulässig.",
+    "source": "https://www.aabachtalsperre.de/",
+    "notes": "Schutz-Ausschluss."
+  },
+  {
+    "id": "owl-norderteich-horn-bad-meinberg",
+    "name": "Norderteich Horn-Bad Meinberg",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.9101,
+    "lng": 8.9862,
+    "type": "See/NSG",
+    "status": "closed",
+    "score": 15,
+    "fish": [],
+    "methods": [],
+    "legal": "Naturschutzgebiet; keine öffentliche Angelnutzung ansetzen.",
+    "source": "https://www.lanuv.nrw.de/",
+    "notes": "Ökologisch sensibel, Ausschlussmarker."
+  },
+  {
+    "id": "owl-forellenhof-wilhelmsdorf-bielefeld",
+    "name": "Forellenhof Wilhelmsdorf",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.9236,
+    "lng": 8.5752,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 62,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Karpfen"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Sbirolino"
+    ],
+    "legal": "Kommerzieller Angelteich; Tageskarte/Hausordnung maßgeblich.",
+    "source": "https://www.forellenhof-wilhelmsdorf.de/",
+    "notes": "Besatz und Regeln tagesaktuell prüfen."
+  }
+]

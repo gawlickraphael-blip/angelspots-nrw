@@ -1,0 +1,415 @@
+[
+  {
+    "id": "hagen-hengstey",
+    "name": "Hengsteysee",
+    "region": "Hagen + 20 km",
+    "lat": 51.40897,
+    "lng": 7.45474,
+    "type": "Stausee",
+    "status": "public",
+    "score": 88,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Aal",
+      "Wels",
+      "Schleie",
+      "Brasse"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern",
+      "Karpfenangeln"
+    ],
+    "legal": "Gastangler laut SFV möglich. Nur mit Fischereischein, Gastkarte und aktueller Gastanglerkarte.",
+    "source": [
+      "https://sfv-hagen-herdecke.de/hengsteysee/",
+      "https://sfv-hagen-herdecke.de/gastkarten/",
+      "https://sfv-hagen-herdecke.de/bestimmungen-fuer-gastangler/"
+    ],
+    "notes": "Ort: Hagen/Herdecke/Hohensyburg | Zuständig: SFV Hagen, Herdecke und Umgegend e.V. | Zugang: Ufer gut erreichbar, aber Gaststrecken/Schilder beachten. | Praxis: Sehr starker Allround-Spot nah an Hagen: Raubfisch + Friedfisch, schöner Outdoor-Vibe. | Warnung: Bootsangeln für Gastangler nicht bestätigt | Warnung: Wehre/Bauwerke meiden | Warnung: Uferabschnitte nur laut Vereinskarte"
+  },
+  {
+    "id": "hagen-harkort",
+    "name": "Harkortsee",
+    "region": "Hagen + 20 km",
+    "lat": 51.3926,
+    "lng": 7.40223,
+    "type": "Stausee",
+    "status": "public",
+    "score": 84,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Aal",
+      "Waller",
+      "Bachforelle",
+      "Schleie"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern"
+    ],
+    "legal": "Gastangler laut SFV möglich; Gastkarte und Gewässerkarte maßgeblich.",
+    "source": [
+      "https://sfv-hagen-herdecke.de/harkortsee/",
+      "https://sfv-hagen-herdecke.de/gastkarten/"
+    ],
+    "notes": "Ort: Wetter/Herdecke/Hagen-Nord | Zuständig: SFV Hagen, Herdecke und Umgegend e.V. | Zugang: Viele Uferbereiche, genaue Gastbereiche über SFV prüfen. | Praxis: Guter See für entspannte Sessions, Friedfisch und Raubfisch. | Warnung: Nicht alle Ufer automatisch beangelbar | Warnung: Freizeitbetrieb beachten"
+  },
+  {
+    "id": "hagen-ruhr-hagen",
+    "name": "Ruhr Hagen/Herdecke",
+    "region": "Hagen + 20 km",
+    "lat": 51.3972,
+    "lng": 7.44529,
+    "type": "Fluss",
+    "status": "public",
+    "score": 82,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Zander",
+      "Aal",
+      "Karpfen",
+      "Rotauge"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Ansitzangeln"
+    ],
+    "legal": "Gastangler nur auf blau markierten Gastanglerstrecken.",
+    "source": [
+      "https://sfv-hagen-herdecke.de/ruhr/",
+      "https://sfv-hagen-herdecke.de/unsere-gastanglerstrecke/"
+    ],
+    "notes": "Ort: Hagen-Nord/Herdecke | Zuständig: SFV Hagen-Herdecke | Zugang: Flussstrecken mit abschnittsabhängigem Zugang. | Praxis: Spannender Flussabschnitt für Döbel, Barbe, Barsch und Raubfisch. | Warnung: Uferseite/Abschnitt entscheidend | Warnung: Brücken, Bootsanleger, Bauwerke meiden | Warnung: Strömung/Hochwasser beachten"
+  },
+  {
+    "id": "hagen-volme",
+    "name": "Volme Hagen",
+    "region": "Hagen + 20 km",
+    "lat": 51.365,
+    "lng": 7.459,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 58,
+    "fish": [
+      "Forelle",
+      "Barbe",
+      "Äsche",
+      "Döbel",
+      "Barsch",
+      "Aal"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "Spinnfischen"
+    ],
+    "legal": "Öffentlich eher Vereins-/Zusatzberechtigung; Gastkarten nicht bestätigt.",
+    "source": [
+      "https://sfv-hagen-herdecke.de/volme/"
+    ],
+    "notes": "Ort: Hagen-Dahl bis Ruhrmündung | Zuständig: SFV Hagen-Herdecke | Zugang: Stadt- und Talabschnitte, Zugang stark abschnittsabhängig. | Praxis: Interessant für Flussangler, aber rechtlich vorher sauber klären. | Warnung: Nicht spontan beangeln ohne Vereinsklärung | Warnung: Strecken/Sperren prüfen"
+  },
+  {
+    "id": "hagen-lenne",
+    "name": "Lenne Hohenlimburg",
+    "region": "Hagen + 20 km",
+    "lat": 51.3736,
+    "lng": 7.5191,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 62,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Bachforelle",
+      "Äsche",
+      "Aal",
+      "Barsch",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Feedern",
+      "Fliegenfischen"
+    ],
+    "legal": "Angelfreunde Lenne-Hohenlimburg: keine Tageskarten recherchiert; SFV-Abschnitt eher Vereinsberechtigung.",
+    "source": [
+      "https://sfv-hagen-herdecke.de/lenne/",
+      "https://angeln-lenne.de/"
+    ],
+    "notes": "Ort: Hohenlimburg/Berchum/Garenfeld | Zuständig: SFV / Angelfreunde Lenne-Hohenlimburg | Zugang: Flussrevier, Grenzen je Verein/Abschnitt prüfen. | Praxis: Gutes Potenzial für Barbe/Döbel/Forelle, eher Vereinsgewässer. | Warnung: Keine Tageskarten bei Teilen der Strecke | Warnung: Abschnittsgrenzen wichtig"
+  },
+  {
+    "id": "hagen-busch",
+    "name": "Buschmühlengraben",
+    "region": "Hagen + 20 km",
+    "lat": 51.408,
+    "lng": 7.503,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 45,
+    "fish": [
+      "Aal",
+      "Barbe",
+      "Rotauge",
+      "Forelle",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Vereinsgewässer; freie Gastkarten nicht bestätigt.",
+    "source": [
+      "https://www.sfv-hagen-herdecke.com/gewaesser/buschmuehlengraben"
+    ],
+    "notes": "Ort: Hagen-Garenfeld | Zuständig: SFV Hagen-Herdecke | Zugang: Kurzer Seitenarm/Triebwerkskanal, ca. 850–900 m. | Praxis: Spezialgewässer für Berechtigte, nicht für spontane Gastangler. | Warnung: Nicht als öffentlicher Spot behandeln"
+  },
+  {
+    "id": "hagen-ennepe-hagen",
+    "name": "Ennepe Hagen/Haspe",
+    "region": "Hagen + 20 km",
+    "lat": 51.345,
+    "lng": 7.4023,
+    "type": "Fluss",
+    "status": "closed",
+    "score": 24,
+    "fish": [
+      "Bachforelle",
+      "Barsch",
+      "Aal",
+      "Rotauge",
+      "Groppe"
+    ],
+    "methods": [
+      "Spinnfischen"
+    ],
+    "legal": "Privat verpachtet; Gastkarten öffentlich nicht recherchiert.",
+    "source": [
+      "https://www.anglermap.de/angeln/steckbrief-gewaesser.php?id=ennepe-hagen-westfalen-haspe"
+    ],
+    "notes": "Ort: Haspe/Wehringhausen/Altenhagen | Zuständig: privat/Ruhrverband laut Portalen | Zugang: Stadtfluss, aber Angelrechte unklar/privat. | Praxis: Als Warn-/Infopunkt, nicht als Empfehlung. | Warnung: Nicht als Gastspot empfehlen | Warnung: Pächter/Rechteinhaber klären"
+  },
+  {
+    "id": "hagen-hasper",
+    "name": "Hasper Talsperre",
+    "region": "Hagen + 20 km",
+    "lat": 51.299,
+    "lng": 7.4202,
+    "type": "Talsperre",
+    "status": "closed",
+    "score": 12,
+    "fish": [
+      "Barsch",
+      "Bachforelle",
+      "Rotauge",
+      "Schleie"
+    ],
+    "methods": [],
+    "legal": "Nach Recherche kein Angelgewässer / Angeln nicht gestattet.",
+    "source": [
+      "https://www.anglermap.de/angeln/steckbrief-gewaesser.php?id=hasper-talsperre-ennepetal"
+    ],
+    "notes": "Ort: Hagen/Ennepetal | Zuständig: Trinkwasser-/Schutzgebiet | Zugang: Schutz-/Talsperrenbereich. | Praxis: Bewusst als Nicht-Spot markiert, damit man ihn nicht falsch einplant. | Warnung: Nicht angeln | Warnung: Wasserschutzgebiet beachten"
+  },
+  {
+    "id": "hagen-kemnade",
+    "name": "Kemnader See",
+    "region": "Hagen + 20 km",
+    "lat": 51.4255,
+    "lng": 7.26784,
+    "type": "Stausee",
+    "status": "public",
+    "score": 80,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Wels",
+      "Karpfen",
+      "Brasse",
+      "Aal",
+      "Schleie"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern",
+      "Karpfenangeln"
+    ],
+    "legal": "Gastkarten/Erlaubnisscheine laut SFV Witten für Bereiche verfügbar.",
+    "source": [
+      "https://www.sfv-witten.de/gastangler.html",
+      "https://www.sfv-witten.de/service/gewaesserkarte.html"
+    ],
+    "notes": "Ort: Witten/Bochum/Herbede | Zuständig: SFV Witten / ASV Bochum Ruhr | Zugang: Großer Freizeitsee mit Infrastruktur, Abschnitte prüfen. | Praxis: Bekannter Ruhrstausee, gut für Tagestrip und vielseitige Zielfische. | Warnung: Freizeitbetrieb | Warnung: Ruhezonen/rote Bereiche beachten | Warnung: Fischarten teils Portalquellen"
+  },
+  {
+    "id": "hagen-ruhr-witten",
+    "name": "Ruhr Witten/Heven",
+    "region": "Hagen + 20 km",
+    "lat": 51.423,
+    "lng": 7.303,
+    "type": "Fluss",
+    "status": "public",
+    "score": 78,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Wels",
+      "Aal",
+      "Karpfen",
+      "Äsche"
+    ],
+    "methods": [
+      "Feedern",
+      "Spinnfischen",
+      "Ansitzangeln"
+    ],
+    "legal": "Gastkarten laut SFV Witten verfügbar.",
+    "source": [
+      "https://www.sfv-witten.de/gastangler.html",
+      "https://www.sfv-witten.de/service/gewaesserkarte.html"
+    ],
+    "notes": "Ort: Witten/Herbede/Heven | Zuständig: SFV Witten 1932 | Zugang: Mehrere Gaststrecken, Kartenbereiche beachten. | Praxis: Sehr gute Flussalternative im Umkreis, besonders für Barbe/Döbel/Friedfisch. | Warnung: Genaue Uferseiten/Strecken prüfen | Warnung: Ruhezonen beachten"
+  },
+  {
+    "id": "hagen-ruhr-schwerte",
+    "name": "Ruhr Schwerte/Villigst",
+    "region": "Hagen + 20 km",
+    "lat": 51.43852,
+    "lng": 7.56841,
+    "type": "Fluss",
+    "status": "public",
+    "score": 79,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Forelle",
+      "Aal",
+      "Döbel",
+      "Nase",
+      "Hasel",
+      "Zander",
+      "Barbe",
+      "Äsche"
+    ],
+    "methods": [
+      "Feedern",
+      "Spinnfischen",
+      "Ansitzangeln"
+    ],
+    "legal": "Tageskarten laut SAV Schwerte verfügbar; Gaststreckenkarte verbindlich.",
+    "source": [
+      "https://www.sav-schwerte.de/Gastangler/",
+      "https://www.sav-schwerte.de/Gewaesser/"
+    ],
+    "notes": "Ort: Schwerte/Villigst/Wandhofen | Zuständig: SAV Schwerte | Zugang: Gaststrecke mit definierten Grenzen, Route gut erreichbar. | Praxis: Einer der praktischsten Gastkarten-Spots im Radius. | Warnung: Grenzen laut Vereinskarte prüfen | Warnung: Strömung und Pegel beachten"
+  },
+  {
+    "id": "hagen-gehrenbach",
+    "name": "Gehrenbach-Stausee",
+    "region": "Hagen + 20 km",
+    "lat": 51.45821,
+    "lng": 7.58455,
+    "type": "See",
+    "status": "limited",
+    "score": 50,
+    "fish": [
+      "Aal",
+      "Hecht",
+      "Karpfen",
+      "Schleie",
+      "Zander"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Karpfenangeln"
+    ],
+    "legal": "SAV-Schwerte-Gewässer; Gastanglerstatus nicht eindeutig aus Text ableitbar.",
+    "source": [
+      "https://www.sav-schwerte.de/Gewaesser/"
+    ],
+    "notes": "Ort: Schwerte | Zuständig: SAV Schwerte | Zugang: Kleiner See/Stausee, Infos beim Verein prüfen. | Praxis: Potenzial vorhanden, aber nur nach Klärung sinnvoll. | Warnung: Vorher Verein kontaktieren"
+  },
+  {
+    "id": "hagen-ennepe-gevelsberg",
+    "name": "Ennepe Gevelsberg/Ennepetal",
+    "region": "Hagen + 20 km",
+    "lat": 51.307,
+    "lng": 7.357,
+    "type": "Fluss",
+    "status": "closed",
+    "score": 28,
+    "fish": [
+      "Bachforelle",
+      "Regenbogenforelle",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen"
+    ],
+    "legal": "Verein nennt: nur Vereinsmitglieder, keine Tageskarten.",
+    "source": [
+      "https://agv-ennepe.wixsite.com/agvennepe/gewaesser"
+    ],
+    "notes": "Ort: Ennepetal/Gevelsberg | Zuständig: AGV Ennepe e.V. | Zugang: Vereinsstrecke. | Praxis: Für Website als klarer Vereins-/Nicht-Gastspot markiert. | Warnung: Keine Tageskarten | Warnung: Nicht spontan beangeln"
+  },
+  {
+    "id": "hagen-kahlen",
+    "name": "Kahlenbecke / ASV Gut Fang",
+    "region": "Hagen + 20 km",
+    "lat": 51.28295,
+    "lng": 7.32929,
+    "type": "Teich",
+    "status": "limited",
+    "score": 42,
+    "fish": [
+      "Forelle"
+    ],
+    "methods": [
+      "Ansitzangeln"
+    ],
+    "legal": "Regulär Vereinsgewässer; Angeln für Jedermann nur zu Terminen/Events.",
+    "source": [
+      "https://asv-gutfang-en.de/"
+    ],
+    "notes": "Ort: Ennepetal-Oelkinghausen | Zuständig: ASV Gut Fang e.V. | Zugang: Vereinsteiche; öffentlich nur zu Events recherchiert. | Praxis: Interessant, wenn öffentliche Vereinsveranstaltung stattfindet. | Warnung: Kein dauerhaftes Gastkartengewässer"
+  },
+  {
+    "id": "hagen-phoenix",
+    "name": "Phoenix See Dortmund",
+    "region": "Hagen + 20 km",
+    "lat": 51.48933,
+    "lng": 7.51413,
+    "type": "See",
+    "status": "unclear",
+    "score": 18,
+    "fish": [
+      "Karpfen",
+      "Hecht"
+    ],
+    "methods": [],
+    "legal": "Kein belastbarer öffentlicher Erlaubnisschein/Bewirtschafter gefunden.",
+    "source": [
+      "https://www.dortmund.de/themen/freizeit-und-kultur/phoenix-see/"
+    ],
+    "notes": "Ort: Dortmund-Hörde | Zuständig: unklar/Stadt Dortmund | Zugang: Freizeitsee, Angelstatus nicht belastbar. | Praxis: Als Warn-/Prüfpunkt aufgenommen, nicht als Empfehlung. | Warnung: Nicht einplanen ohne offizielle Bestätigung | Warnung: User-Portale reichen nicht als Erlaubnisquelle"
+  }
+]

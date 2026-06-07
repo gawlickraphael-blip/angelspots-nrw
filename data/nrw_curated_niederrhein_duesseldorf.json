@@ -1,0 +1,385 @@
+[
+  {
+    "id": "rhein_duesseldorf_altstadt_medienhafen",
+    "name": "Rhein Düsseldorf Altstadt/Medienhafen",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.2248,
+    "lng": 6.7617,
+    "type": "Fluss",
+    "status": "public",
+    "score": 88,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Hecht",
+      "Aal",
+      "Barbe",
+      "Rapfen",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein + Rheinerlaubnisschein NRW; Hafen-, Brücken- und Sperrbereiche beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/ ; https://www.angeln-in-nrw.de/gewaesser/rhein/",
+    "notes": "Urbaner Rheinabschnitt mit Buhnen/Spundwänden; starker Schiffsverkehr."
+  },
+  {
+    "id": "rhein_duesseldorf_kaiserswerth",
+    "name": "Rhein Düsseldorf-Kaiserswerth",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.3015,
+    "lng": 6.7342,
+    "type": "Fluss",
+    "status": "public",
+    "score": 84,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Barbe",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein + Rheinerlaubnisschein; Naturschutz-, Fähr- und Hafenbereiche prüfen.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Buhnenfelder und Kehrströmungen, wasserstandsabhängig."
+  },
+  {
+    "id": "rhein_neuss_grimlinghausen",
+    "name": "Rhein Neuss-Grimlinghausen/Uedesheim",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.1697,
+    "lng": 6.7675,
+    "type": "Fluss",
+    "status": "public",
+    "score": 85,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Barbe",
+      "Rapfen",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Rheinerlaubnisschein + Fischereischein; Betretungsverbote beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Beliebte Buhnenstrecken südlich Düsseldorf."
+  },
+  {
+    "id": "rhein_krefeld_uerdingen",
+    "name": "Rhein Krefeld-Uerdingen",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.3527,
+    "lng": 6.645,
+    "type": "Fluss",
+    "status": "public",
+    "score": 86,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Barbe",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Rheinerlaubnisschein; Industrie-/Hafensperren beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Strukturreicher Rheinabschnitt mit Hafennähe."
+  },
+  {
+    "id": "rhein_wesel_bislich",
+    "name": "Rhein Wesel-Bislich",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.6672,
+    "lng": 6.508,
+    "type": "Fluss",
+    "status": "public",
+    "score": 84,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Barbe",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Rheinerlaubnisschein; Schutzgebiete Bislicher Insel strikt beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/ ; https://www.nabu-naturschutzstation.de/bislicher-insel/",
+    "notes": "Nur außerhalb gesperrter Auen-/Schutzbereiche."
+  },
+  {
+    "id": "rhein_emmerich_promenade",
+    "name": "Rhein Emmerich am Rhein",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.8387,
+    "lng": 6.2486,
+    "type": "Fluss",
+    "status": "public",
+    "score": 82,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Barbe",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein + Rheinerlaubnisschein; Promenaden-/Hafenregeln beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Unterer Niederrhein, bei Hochwasser vorsichtig."
+  },
+  {
+    "id": "elbe_see_duesseldorf_hilden",
+    "name": "Elbsee Düsseldorf/Hilden",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.1825,
+    "lng": 6.888,
+    "type": "See",
+    "status": "limited",
+    "score": 71,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern",
+      "Karpfenangeln"
+    ],
+    "legal": "Nur mit Erlaubnis des Fischereirechtsinhabers/Vereins; Bade-/Schutzbereiche beachten.",
+    "source": "https://www.elbsee.com/ ; https://www.duesseldorf.de/stadtgruen/freizeit/seen/elbsee",
+    "notes": "Großer Baggersee; keine pauschal freie Tageskartenlage."
+  },
+  {
+    "id": "unterbacher_see_duesseldorf",
+    "name": "Unterbacher See Düsseldorf",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.1904,
+    "lng": 6.8989,
+    "type": "See",
+    "status": "unclear",
+    "score": 55,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Karpfen",
+      "Brassen",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Posenangeln"
+    ],
+    "legal": "Fischereirecht/Erlaubnis vor Ort klären; Bade-, Segel- und Naturschutzzonen können Angeln ausschließen.",
+    "source": "https://www.unterbachersee.de/",
+    "notes": "Freizeitsee ohne klar belegte freie Tageskartenstruktur."
+  },
+  {
+    "id": "sechs_seen_platte_duisburg",
+    "name": "Sechs-Seen-Platte Duisburg",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.3868,
+    "lng": 6.7875,
+    "type": "Seenplatte",
+    "status": "limited",
+    "score": 74,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Karpfenangeln",
+      "Feedern"
+    ],
+    "legal": "Nur an freigegebenen Seen/Ufern und mit Erlaubnisschein; Bade-/Wassersport-/Naturschutzbereiche beachten.",
+    "source": "https://www.duisburg.de/microsites/sportpark/sechs-seen-platte/",
+    "notes": "Seenverbund mit unterschiedlichen Nutzungen."
+  },
+  {
+    "id": "auesee_wesel",
+    "name": "Auesee Wesel",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.6546,
+    "lng": 6.6068,
+    "type": "See",
+    "status": "limited",
+    "score": 73,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Karpfenangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereierlaubnis erforderlich; Bade-, Tauch-, Segel- und Schutzbereiche beachten.",
+    "source": "https://www.wesel.de/tourismus-freizeit/auesee",
+    "notes": "Großer Freizeitsee, Erlaubnis vor Ort klären."
+  },
+  {
+    "id": "wisseler_see_kalkar",
+    "name": "Wisseler See Kalkar",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.752,
+    "lng": 6.3104,
+    "type": "See",
+    "status": "public",
+    "score": 70,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Schleie"
+    ],
+    "methods": [
+      "Grundangeln",
+      "Feedern",
+      "Karpfenangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Fischereischein + Angelkarte des Betreibers; Bade-/Campingzonen beachten.",
+    "source": "https://www.wisseler-see.de/",
+    "notes": "Angelkarte öffentlich belegbar, Details saisonal prüfen."
+  },
+  {
+    "id": "niers_goch_weeze",
+    "name": "Niers bei Goch/Weeze",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.6685,
+    "lng": 6.1648,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 66,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Döbel",
+      "Aal",
+      "Rotauge",
+      "Schleie"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Abschnittserlaubnis erforderlich; Uferbetretung und Schutzgebiete beachten.",
+    "source": "https://www.niersverband.de/",
+    "notes": "Kleiner Fluss, Fischereirechte abschnittsweise."
+  },
+  {
+    "id": "angelpark_vennhausen_duesseldorf",
+    "name": "Angelpark Vennhausen Düsseldorf",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.2075,
+    "lng": 6.8554,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 69,
+    "fish": [
+      "Forelle",
+      "Lachsforelle",
+      "Saibling",
+      "Stör",
+      "Karpfen",
+      "Wels"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Grundangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Betreiberregeln, Tageskarte, Köder-/Fangregeln beachten.",
+    "source": "https://www.angelpark-vennhausen.de/",
+    "notes": "Kommerzielle Anlage mit öffentlicher Kartenstruktur."
+  },
+  {
+    "id": "angelparadies_goch_kessel",
+    "name": "Angelparadies Goch-Kessel",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.713,
+    "lng": 6.092,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 66,
+    "fish": [
+      "Forelle",
+      "Lachsforelle",
+      "Saibling",
+      "Stör",
+      "Karpfen"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Nur nach Betreiberordnung und gültiger Angelkarte.",
+    "source": "https://www.angelparadies-goch.de/",
+    "notes": "Kommerzieller Forellen-/Angelpark am Niederrhein."
+  },
+  {
+    "id": "bislicher_insel_altarme_xanten",
+    "name": "Bislicher Insel Xanten – Altarme/Schutzbereiche",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.648,
+    "lng": 6.486,
+    "type": "Altarme/NSG",
+    "status": "closed",
+    "score": 20,
+    "fish": [
+      "nicht bewertet"
+    ],
+    "methods": [],
+    "legal": "Naturschutzgebiet; Angeln/Betreten nur dort, wo ausdrücklich erlaubt.",
+    "source": "https://www.nabu-naturschutzstation.de/bislicher-insel/",
+    "notes": "Closed-Marker gegen illegale Altarm-Spot-Empfehlungen."
+  }
+]

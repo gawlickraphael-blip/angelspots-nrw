@@ -1,0 +1,366 @@
+[
+  {
+    "id": "rhein-koeln-innenstadt-deutz-rheinauhafen",
+    "name": "Rhein Köln Innenstadt/Deutz/Rheinauhafen",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.9364,
+    "lng": 6.9653,
+    "type": "Fluss",
+    "status": "public",
+    "score": 90,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Wels",
+      "Hecht",
+      "Aal",
+      "Barbe",
+      "Rapfen"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein + Rheinerlaubnisschein NRW; Hafen-/Brücken-/Sperrbereiche prüfen.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Urbaner Rheinabschnitt, klassischer Zander-/Rapfenbereich."
+  },
+  {
+    "id": "rhein-koeln-niehl-muelheim",
+    "name": "Rhein Köln-Niehl/Mülheim",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.9729,
+    "lng": 6.9818,
+    "type": "Fluss",
+    "status": "public",
+    "score": 84,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Wels",
+      "Aal",
+      "Barbe"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Rheinerlaubnisschein; Industrie-/Hafen-/Naturschutzbereiche beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Buhnenfelder und Hafennähe."
+  },
+  {
+    "id": "rhein-bonn-beuel",
+    "name": "Rhein Bonn-Beuel",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.7356,
+    "lng": 7.1135,
+    "type": "Fluss",
+    "status": "public",
+    "score": 84,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Barbe",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Fischereischein + Rheinerlaubnisschein; lokale Ufer-/Naturschutzbereiche beachten.",
+    "source": "https://www.rheinfischerei-nrw.de/",
+    "notes": "Gut erreichbarer Bonner Rheinabschnitt."
+  },
+  {
+    "id": "fuehlinger-see-koeln",
+    "name": "Fühlinger See Köln",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 51.0228,
+    "lng": 6.9336,
+    "type": "Seenplatte",
+    "status": "limited",
+    "score": 75,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Ansitzangeln",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein des Fischereiberechtigten/Vereins; Bade-, Regatta- und Schutzbereiche beachten.",
+    "source": "https://www.stadt-koeln.de/ ; https://www.fuehlinger-see.com/",
+    "notes": "Mehrere Teilbecken, hohe Freizeitnutzung."
+  },
+  {
+    "id": "otto-maigler-see-huerth",
+    "name": "Otto-Maigler-See Hürth",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.8792,
+    "lng": 6.8237,
+    "type": "See",
+    "status": "limited",
+    "score": 72,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Feedern",
+      "Spinnfischen"
+    ],
+    "legal": "Fischereischein + Gewässererlaubnis; Bade-/Strandbad-/Vereinsbereiche beachten.",
+    "source": "https://www.otto-maigler-see.de/",
+    "notes": "Ville-See, Gastkartenlage vorab prüfen."
+  },
+  {
+    "id": "liblarer-see-erftstadt",
+    "name": "Liblarer See Erftstadt",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.8002,
+    "lng": 6.8222,
+    "type": "See",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Feedern",
+      "Spinnfischen"
+    ],
+    "legal": "Nur mit Erlaubnis des Fischereiberechtigten/Vereins; Natur-/Bade-/Privatbereiche beachten.",
+    "source": "https://www.erftstadt.de/",
+    "notes": "Teil der Ville-Seenlandschaft."
+  },
+  {
+    "id": "bleibtreusee-bruehl-erftstadt",
+    "name": "Bleibtreusee Brühl/Erftstadt",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.8156,
+    "lng": 6.8456,
+    "type": "See",
+    "status": "limited",
+    "score": 68,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Zander",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Feedern",
+      "Spinnfischen"
+    ],
+    "legal": "Gewässerkarte nötig; Freizeit-, Wasserski-, Bade- und Schutzbereiche beachten.",
+    "source": "https://www.rhein-erft-tourismus.de/",
+    "notes": "Rekultivierter Tagebausee mit hohem Freizeitdruck."
+  },
+  {
+    "id": "sieg-hennef",
+    "name": "Sieg Hennef",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.7795,
+    "lng": 7.2838,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 78,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Barbe",
+      "Döbel",
+      "Barsch",
+      "Hecht",
+      "Aal"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein für konkreten Siegabschnitt; FFH-/Schon-/Salmonidenregeln beachten.",
+    "source": "https://www.hennef.de/ ; https://www.sieg.de/",
+    "notes": "Attraktiver Siegabschnitt, stark regelabhängig."
+  },
+  {
+    "id": "sieg-eitorf-windeck",
+    "name": "Sieg Eitorf/Windeck",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.7767,
+    "lng": 7.4484,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 80,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Barbe",
+      "Döbel",
+      "Aal",
+      "Barsch"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein für Pachtabschnitt; Schonzeiten/Naturschutz beachten.",
+    "source": "https://www.sieg.de/",
+    "notes": "Naturnähere Siegabschnitte mit Salmonidenregeln."
+  },
+  {
+    "id": "agger-lohmar-troisdorf",
+    "name": "Agger Lohmar/Troisdorf",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.8533,
+    "lng": 7.2173,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 66,
+    "fish": [
+      "Bachforelle",
+      "Döbel",
+      "Barbe",
+      "Äsche",
+      "Aal",
+      "Barsch"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Nur mit Erlaubnis für konkreten Aggerabschnitt; Naturschutz-/Salmonidenregeln beachten.",
+    "source": "https://www.rhein-sieg-kreis.de/",
+    "notes": "Unterer Aggerabschnitt vor Einmündung in Sieg."
+  },
+  {
+    "id": "wupper-leverkusen-opladen",
+    "name": "Wupper Leverkusen-Opladen",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 51.0669,
+    "lng": 7.0052,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 64,
+    "fish": [
+      "Bachforelle",
+      "Döbel",
+      "Barbe",
+      "Barsch",
+      "Aal",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein des zuständigen Fischereiberechtigten/Vereins; Renaturierungs- und Schutzbereiche beachten.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Unterer Wupperabschnitt, keine freie öffentliche Fischerei."
+  },
+  {
+    "id": "wupper-muendung-rhein-leverkusen",
+    "name": "Wuppermündung Rhein Leverkusen",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 51.0459,
+    "lng": 6.9525,
+    "type": "Mündung",
+    "status": "unclear",
+    "score": 55,
+    "fish": [
+      "Zander",
+      "Barsch",
+      "Rapfen",
+      "Döbel",
+      "Barbe",
+      "Aal",
+      "Wels"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Grundangeln",
+      "Feedern"
+    ],
+    "legal": "Rheinseite mit Rheinerlaubnisschein; Wupper-/Mündungs-/Schutzbereiche gesondert klären.",
+    "source": "https://www.rheinfischerei-nrw.de/ ; https://www.wupperverband.de/",
+    "notes": "Fischereilich interessant, rechtlich sensibel."
+  },
+  {
+    "id": "angelpark-much",
+    "name": "Angelpark Much",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.9038,
+    "lng": 7.4034,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 66,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Karpfen",
+      "Stör",
+      "Wels"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Grundangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Betreiberregeln, Tageskarte/Anlagenkarte und Köderregeln beachten.",
+    "source": "https://www.angelpark-much.de/",
+    "notes": "Belegbare Forellen-/Angelparkanlage."
+  },
+  {
+    "id": "forellenhof-quirrenbach-koenigswinter",
+    "name": "Forellenhof Quirrenbach/Königswinter",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.6817,
+    "lng": 7.2986,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 60,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Posenangeln",
+      "Grundangeln"
+    ],
+    "legal": "Private Anlage; nur nach Betreiberregeln und Anlagenkarte.",
+    "source": "https://www.forellenhof-quirrenbach.de/",
+    "notes": "Forellenanlage im südlichen Rhein-Sieg-Kreis."
+  }
+]

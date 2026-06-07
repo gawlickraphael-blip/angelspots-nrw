@@ -1,0 +1,295 @@
+[
+  {
+    "id": "toeppersee-duisburg-rumeln",
+    "name": "Toeppersee/Tegge Duisburg-Rumeln",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.4073,
+    "lng": 6.6937,
+    "type": "Baggersee",
+    "status": "limited",
+    "score": 74,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein-/Vereinsstruktur; konkrete Uferbereiche, Schonzeiten und Nachtangelregeln vor Ort prüfen.",
+    "source": "https://www.duisburg.de/ ; https://www.lanuv.nrw.de/natur/schutzgebiete",
+    "notes": "Kleinerer Duisburger Baggersee, nicht als frei öffentlich markieren."
+  },
+  {
+    "id": "loheider-see-duisburg-baerl",
+    "name": "Lohheider/Loheider See Duisburg-Baerl",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.4842,
+    "lng": 6.6803,
+    "type": "Baggersee",
+    "status": "limited",
+    "score": 68,
+    "fish": [
+      "Karpfen",
+      "Schleie",
+      "Hecht",
+      "Barsch",
+      "Zander"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Typischer Vereins-/Pachtsee; Erlaubnis und zulässige Stellen beim Fischereiberechtigten klären.",
+    "source": "https://www.duisburg.de/ ; https://www.openstreetmap.org/",
+    "notes": "Niederrhein-Baggersee nahe Baerl/Moers, Gastkartenlage unklar."
+  },
+  {
+    "id": "grindsee-krefeld-linn",
+    "name": "Grindsee Krefeld-Linn",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.332,
+    "lng": 6.639,
+    "type": "Baggersee",
+    "status": "limited",
+    "score": 62,
+    "fish": [
+      "Karpfen",
+      "Barsch",
+      "Hecht",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Vereins-/Pachtgewässer; nur mit ausdrücklicher Erlaubnis.",
+    "source": "https://www.krefeld.de/ ; https://www.openstreetmap.org/",
+    "notes": "Kleiner Baggersee-Kandidat im Krefelder Raum."
+  },
+  {
+    "id": "latumer-see-meerbusch",
+    "name": "Latumer See Meerbusch",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.3092,
+    "lng": 6.6665,
+    "type": "Baggersee",
+    "status": "unclear",
+    "score": 48,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Keine belastbare öffentliche Gastkarten-/Betreiberinformation; Eigentums-/Uferrechte beachten.",
+    "source": "https://www.meerbusch.de/ ; https://www.openstreetmap.org/",
+    "notes": "OSM-/Luftbild-Kandidat, später Pächter/Verein prüfen."
+  },
+  {
+    "id": "krickenbecker-seen-nettetal",
+    "name": "Krickenbecker Seen Nettetal",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.329,
+    "lng": 6.247,
+    "type": "Seegruppe/NSG",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Naturschutzgebiet; Angeln für Gäste nicht als öffentlich zulässig belegt, Schutzbereiche meiden.",
+    "source": "https://www.nabu-naturschutzhof.de/krickenbecker-seen/ ; https://www.lanuv.nrw.de/natur/schutzgebiete",
+    "notes": "Closed-Marker, damit keine illegalen Uferzugänge empfohlen werden."
+  },
+  {
+    "id": "urdenbacher-kaempe-altrhein",
+    "name": "Urdenbacher Kämpe/Altrhein Düsseldorf",
+    "region": "Niederrhein/Düsseldorf",
+    "lat": 51.137,
+    "lng": 6.873,
+    "type": "Rhein-Altarm/Auen-NSG",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Naturschutz-/Auenbereich mit Schutzauflagen; keine öffentliche Angelberechtigung ableiten.",
+    "source": "https://www.duesseldorf.de/stadtgruen/naturschutz/naturschutzgebiete/urdenbacher-kaempe",
+    "notes": "Beliebter Naturraum, bewusst closed."
+  },
+  {
+    "id": "heider-bergsee-bruehl",
+    "name": "Heider Bergsee Brühl",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.821,
+    "lng": 6.884,
+    "type": "Ville-See",
+    "status": "limited",
+    "score": 73,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern",
+      "Karpfenangeln"
+    ],
+    "legal": "Nur mit gültiger Erlaubnis; Bade-/Camping-/Schutzbereiche beachten.",
+    "source": "https://www.bruehl.de/ ; https://www.openstreetmap.org/",
+    "notes": "Klassischer Ville-See mit Freizeitnutzung."
+  },
+  {
+    "id": "koettinger-see-erftstadt",
+    "name": "Köttinger See Erftstadt",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.819,
+    "lng": 6.78,
+    "type": "Ville-See",
+    "status": "limited",
+    "score": 66,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Vereins-/Pachtgewässer; Erlaubnisschein und Angelstrecken prüfen.",
+    "source": "https://www.erftstadt.de/ ; https://www.openstreetmap.org/",
+    "notes": "Kleinerer Ville-/Restsee-Kandidat."
+  },
+  {
+    "id": "zieselsmaarsee-huerth",
+    "name": "Zieselsmaarsee Hürth",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.8505,
+    "lng": 6.842,
+    "type": "Ville-See",
+    "status": "limited",
+    "score": 64,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Nur mit Fischereierlaubnis des Berechtigten; Freizeit- und Uferzonen beachten.",
+    "source": "https://www.huerth.de/ ; https://www.openstreetmap.org/",
+    "notes": "Keine freie Tageskartenlage belegt."
+  },
+  {
+    "id": "boisdorfer-see-kerpen",
+    "name": "Boisdorfer See Kerpen",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.8708,
+    "lng": 6.7295,
+    "type": "Ville-See",
+    "status": "unclear",
+    "score": 45,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Keine robuste öffentliche Erlaubnisscheinlage; Natur-/Ufer-/Eigentumsbeschränkungen beachten.",
+    "source": "https://www.kerpen.de/ ; https://www.openstreetmap.org/",
+    "notes": "Erst nach Rechteklärung höher einstufen."
+  },
+  {
+    "id": "rotter-see-troisdorf",
+    "name": "Rotter See Troisdorf",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.825,
+    "lng": 7.119,
+    "type": "Baggersee",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Feedern"
+    ],
+    "legal": "Erlaubnisschein-/Vereinsregelung und Abgrenzung zu Badebereichen prüfen.",
+    "source": "https://www.troisdorf.de/ ; https://www.openstreetmap.org/",
+    "notes": "Stadtnaher Baggersee im Köln/Bonn-Korridor."
+  },
+  {
+    "id": "dhunn-leverkusen-schlebusch",
+    "name": "Dhünn Leverkusen-Schlebusch",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 51.033,
+    "lng": 7.047,
+    "type": "Flussabschnitt",
+    "status": "limited",
+    "score": 63,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel",
+      "Barbe"
+    ],
+    "methods": [
+      "Fliegenfischen",
+      "leichtes Spinnfischen"
+    ],
+    "legal": "Abschnittsweise Vereinsrechte; Schonstrecken und Watverbote prüfen.",
+    "source": "https://www.leverkusen.de/ ; https://www.openstreetmap.org/",
+    "notes": "Nicht als freier Stadtbach ausweisen."
+  },
+  {
+    "id": "mondorfer-see-niederkassel",
+    "name": "Mondorfer See Niederkassel",
+    "region": "Rheinland Köln/Bonn",
+    "lat": 50.785,
+    "lng": 7.079,
+    "type": "Baggersee",
+    "status": "unclear",
+    "score": 46,
+    "fish": [
+      "Karpfen",
+      "Hecht",
+      "Barsch",
+      "Zander"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Keine klare öffentliche Tageskartenlage; Rheinauen-/Freizeit-/Schutzbereiche prüfen.",
+    "source": "https://www.niederkassel.de/ ; https://www.openstreetmap.org/",
+    "notes": "Kandidat zwischen Bonn und Köln."
+  }
+]

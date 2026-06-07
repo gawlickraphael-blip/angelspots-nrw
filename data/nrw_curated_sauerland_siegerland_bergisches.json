@@ -1,0 +1,357 @@
+[
+  {
+    "id": "sauerland-biggesee",
+    "name": "Biggesee",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.085,
+    "lng": 7.895,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 92,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Karpfen",
+      "Weißfisch"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Gast-/Tages-/Wochenkarten öffentlich ausgewiesen; Gewässerordnung beachten.",
+    "source": "https://www.ruhrverband.de/freizeit/talsperren/angeln",
+    "notes": "Großer Sauerland-Stausee, Schon-/Boots-/Nachtangelregeln prüfen."
+  },
+  {
+    "id": "sauerland-listersee",
+    "name": "Listersee",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.101,
+    "lng": 7.825,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 87,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Gastkartenstruktur Bigge/Lister; Sperrzonen prüfen.",
+    "source": "https://www.ruhrverband.de/freizeit/talsperren/angeln",
+    "notes": "Ruhiger als Biggesee."
+  },
+  {
+    "id": "sauerland-sorpesee",
+    "name": "Sorpesee",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.345,
+    "lng": 7.957,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 88,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Renke",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Erlaubnis"
+    ],
+    "legal": "Gastkarten/Tageskarten über Ruhrverband/Ausgabestellen; Ufer-/Bootsregeln beachten.",
+    "source": "https://www.ruhrverband.de/freizeit/talsperren/angeln",
+    "notes": "Beliebtes Raubfischgewässer."
+  },
+  {
+    "id": "sauerland-hennesee",
+    "name": "Hennesee",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.328,
+    "lng": 8.276,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 85,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Gastkarten öffentlich ausgewiesen; Ruhrverband-/Gewässerordnung maßgeblich.",
+    "source": "https://www.ruhrverband.de/freizeit/talsperren/angeln",
+    "notes": "Gut erreichbarer Stausee bei Meschede."
+  },
+  {
+    "id": "sauerland-moehnesee",
+    "name": "Möhnesee",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.494,
+    "lng": 8.073,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 91,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Renke",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Erlaubnis"
+    ],
+    "legal": "Erlaubnisscheinstruktur vorhanden; Karten/Bootsregeln prüfen.",
+    "source": "https://www.ruhrverband.de/freizeit/talsperren/angeln",
+    "notes": "Großes Raubfisch-/Renkengewässer."
+  },
+  {
+    "id": "sauerland-aggertalsperre",
+    "name": "Aggertalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.025,
+    "lng": 7.62,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 82,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Gastkarten/Ausgabestellen prüfen; Staumauer-/Bade-/Schutzbereiche beachten.",
+    "source": "https://www.aggerverband.de/",
+    "notes": "Bergisches Talsperrengewässer."
+  },
+  {
+    "id": "sauerland-wupper-talsperre",
+    "name": "Wupper-Talsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.173,
+    "lng": 7.333,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 82,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Aal",
+      "Karpfen"
+    ],
+    "methods": [
+      "Uferangeln",
+      "Spinnfischen",
+      "Bootsangeln falls erlaubt"
+    ],
+    "legal": "Gastkarten/Erlaubnisscheine über zuständige Vereine/Ausgabestellen; Schutzbereiche beachten.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Bergisches Raubfischgewässer mit Wasserstandsschwankungen."
+  },
+  {
+    "id": "sauerland-versetalsperre",
+    "name": "Versetalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.18,
+    "lng": 7.69,
+    "type": "Trinkwassertalsperre",
+    "status": "limited",
+    "score": 55,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Forelle",
+      "Karpfen"
+    ],
+    "methods": [
+      "Uferangeln nur mit spezieller Erlaubnis"
+    ],
+    "legal": "Trinkwasserschutz; kein frei zugänglicher Standardspot, nur mit besonderer Erlaubnis.",
+    "source": "https://www.aggerverband.de/",
+    "notes": "Konservativ limited statt öffentlich."
+  },
+  {
+    "id": "sauerland-wiehl-talsperre",
+    "name": "Wiehltalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 50.982,
+    "lng": 7.69,
+    "type": "Trinkwassertalsperre",
+    "status": "closed",
+    "score": 15,
+    "fish": [],
+    "methods": [],
+    "legal": "Keine öffentliche Angelmöglichkeit; Trinkwassertalsperre/Schutzgebiet.",
+    "source": "https://www.aggerverband.de/",
+    "notes": "Nicht als Angelspot einplanen."
+  },
+  {
+    "id": "sauerland-wupper-wuppertal-solingen",
+    "name": "Wupper Wuppertal/Solingen",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.23,
+    "lng": 7.12,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 68,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel",
+      "Barbe",
+      "Barsch"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Ansitz je Abschnitt"
+    ],
+    "legal": "Abschnittsabhängig über Vereine/Pächter; nur freigegebene Strecken.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Stadt-/Naturschutz-/Vereinsabschnitte unterscheiden."
+  },
+  {
+    "id": "sauerland-sieg-siegen",
+    "name": "Sieg bei Siegen",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 50.875,
+    "lng": 8.02,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 70,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel",
+      "Barbe",
+      "Aal",
+      "Barsch"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Ansitz je Abschnitt"
+    ],
+    "legal": "Fischereirechte abschnittsweise; nur mit konkreter Vereins-/Pachtstreckenerlaubnis.",
+    "source": "https://www.siegen.de/",
+    "notes": "Urban/naturnaher Flussmix."
+  },
+  {
+    "id": "sauerland-ruhr-arnsberg",
+    "name": "Ruhr bei Arnsberg",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.397,
+    "lng": 8.064,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 72,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel",
+      "Barbe",
+      "Aal",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Ansitz je Abschnitt"
+    ],
+    "legal": "Vereins-/Pachtstrecken; Gastkarten nur für freigegebene Abschnitte.",
+    "source": "https://www.arnsberg.de/",
+    "notes": "Streckengrenzen exakt klären."
+  },
+  {
+    "id": "sauerland-lenne-altena",
+    "name": "Lenne bei Altena",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.299,
+    "lng": 7.673,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 66,
+    "fish": [
+      "Bachforelle",
+      "Äsche",
+      "Döbel",
+      "Barbe",
+      "Aal"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Ansitz je Abschnitt"
+    ],
+    "legal": "Nur freigegebene Vereins-/Pachtstrecken mit Erlaubnisschein.",
+    "source": "https://www.maerkischer-kreis.de/",
+    "notes": "Sauerlandfluss mit vielen Privat-/Vereinsrechten."
+  },
+  {
+    "id": "sauerland-obernautalsperre",
+    "name": "Obernautalsperre Netphen",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 50.913,
+    "lng": 8.18,
+    "type": "Trinkwassertalsperre",
+    "status": "closed",
+    "score": 15,
+    "fish": [],
+    "methods": [],
+    "legal": "Keine öffentliche Angelmöglichkeit; Trinkwasserschutzgebiet.",
+    "source": "https://www.wasserverband-siwi.de/",
+    "notes": "Ausschlussmarker."
+  },
+  {
+    "id": "sauerland-forellenhof-poggel",
+    "name": "Forellenhof Poggel Eslohe",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.25,
+    "lng": 8.18,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 66,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Stör"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Ansitzangeln"
+    ],
+    "legal": "Kommerzieller Angelpark; Tickets/Hausordnung/Öffnungszeiten beachten.",
+    "source": "https://www.forellenhof-poggel.de/",
+    "notes": "Planbare Alternative zu Naturgewässern."
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "owl-diemel-warburg",
+    "name": "Diemel bei Warburg",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.491,
+    "lng": 9.145,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 68,
+    "fish": [
+      "Barbe",
+      "Döbel",
+      "Äsche",
+      "Bachforelle",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Ansitz"
+    ],
+    "legal": "Nur mit Erlaubnisschein des Fischereirechtsinhabers/Vereins; Abschnitte prüfen.",
+    "source": "https://www.warburg.de/",
+    "notes": "Mittelgebirgsfluss im Kreis Höxter."
+  },
+  {
+    "id": "owl-bega-lemgo",
+    "name": "Bega bei Lemgo",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.026,
+    "lng": 8.9,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 62,
+    "fish": [
+      "Bachforelle",
+      "Döbel",
+      "Aal",
+      "Hecht"
+    ],
+    "methods": [
+      "Spinnfischen",
+      "Fliegenfischen",
+      "Naturköder"
+    ],
+    "legal": "Vereins-/Pachtgewässer; lokale Schonstrecken beachten.",
+    "source": "https://www.lemgo.de/",
+    "notes": "Kleiner Fluss in Lippe."
+  },
+  {
+    "id": "owl-else-buende-kirchlengern",
+    "name": "Else bei Bünde/Kirchlengern",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.2,
+    "lng": 8.58,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 60,
+    "fish": [
+      "Döbel",
+      "Aal",
+      "Hecht",
+      "Barsch",
+      "Karpfen"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Naturköder"
+    ],
+    "legal": "Nur auf gepachteten Abschnitten mit Erlaubnisschein; Uferbetretung beachten.",
+    "source": "https://www.buende.de/",
+    "notes": "Gastkartenlage abschnittsabhängig."
+  },
+  {
+    "id": "owl-grosse-aue-rahden",
+    "name": "Große Aue Rahden/Espelkamp",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.44,
+    "lng": 8.62,
+    "type": "Fluss",
+    "status": "limited",
+    "score": 61,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Aal",
+      "Karpfen",
+      "Schleie"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Posenangeln"
+    ],
+    "legal": "Pacht-/Vereinsgewässer; Abschnittsfreigabe erforderlich.",
+    "source": "https://www.rahden.de/",
+    "notes": "Niederungsfluss im Norden OWL."
+  },
+  {
+    "id": "owl-pader-quellgebiet",
+    "name": "Pader/Paderquellgebiet Paderborn",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 51.718,
+    "lng": 8.754,
+    "type": "Quellfluss/Stadtgewässer",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Quell-/Innenstadtbereich nicht als öffentliches Angelgewässer behandeln; Schutz-/Kommunalregeln beachten.",
+    "source": "https://www.paderborn.de/",
+    "notes": "Ökologisch sensibles Quellgebiet, No-go-Marker."
+  },
+  {
+    "id": "owl-angelparadies-vlotho",
+    "name": "Angelparadies Vlotho",
+    "region": "Ostwestfalen-Lippe",
+    "lat": 52.163,
+    "lng": 8.855,
+    "type": "Angelpark",
+    "status": "public",
+    "score": 65,
+    "fish": [
+      "Regenbogenforelle",
+      "Lachsforelle",
+      "Saibling",
+      "Karpfen",
+      "Stör"
+    ],
+    "methods": [
+      "Forellenangeln",
+      "Pose",
+      "Grundangeln"
+    ],
+    "legal": "Kommerzieller Angelpark; Tages-/Teichregeln und Öffnungszeiten beachten.",
+    "source": "https://www.google.com/search?q=Angelparadies+Vlotho",
+    "notes": "Betreiberinfos vor Besuch validieren."
+  },
+  {
+    "id": "ssb-bevertalsperre",
+    "name": "Bevertalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.122,
+    "lng": 7.343,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 80,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Wupperverband-/Ausgabestellenregeln beachten.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Bekannter Angel-Stausee im Bergischen Land."
+  },
+  {
+    "id": "ssb-brucher-talsperre",
+    "name": "Brucher Talsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.073,
+    "lng": 7.546,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 74,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Naturköder"
+    ],
+    "legal": "Nur mit Erlaubnisschein; Uferzonen, Sperrbereiche und Bootsvorschriften beachten.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Kleinerer Angel-Stausee bei Marienheide."
+  },
+  {
+    "id": "ssb-lingesetalsperre",
+    "name": "Lingesetalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.098,
+    "lng": 7.575,
+    "type": "Talsperre",
+    "status": "public",
+    "score": 72,
+    "fish": [
+      "Hecht",
+      "Barsch",
+      "Karpfen",
+      "Schleie",
+      "Aal"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen"
+    ],
+    "legal": "Nur mit Angelkarte/Erlaubnisschein und nach Talsperrenordnung.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Freizeit- und Angelgewässer bei Marienheide."
+  },
+  {
+    "id": "ssb-neyetalsperre",
+    "name": "Neyetalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.132,
+    "lng": 7.414,
+    "type": "Trinkwassertalsperre",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Trinkwasserschutzgebiet; Angeln und Betreten gesperrter Ufer nicht zulässig.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "Closed-Marker."
+  },
+  {
+    "id": "ssb-kerspetalsperre",
+    "name": "Kerspetalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.103,
+    "lng": 7.522,
+    "type": "Trinkwassertalsperre",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Trinkwassertalsperre mit Schutzauflagen; Angeln nicht öffentlich erlaubt.",
+    "source": "https://www.wupperverband.de/",
+    "notes": "No-go für Gastangler."
+  },
+  {
+    "id": "ssb-ennepetalsperre",
+    "name": "Ennepetalsperre",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.205,
+    "lng": 7.414,
+    "type": "Trinkwassertalsperre",
+    "status": "closed",
+    "score": 20,
+    "fish": [],
+    "methods": [],
+    "legal": "Trinkwasserschutzgebiet; keine öffentliche Angelerlaubnis, Betretungsverbote beachten.",
+    "source": "https://www.ruhrverband.de/",
+    "notes": "Closed trotz landschaftlicher Bekanntheit."
+  },
+  {
+    "id": "ssb-diemelsee-nrw-ufer",
+    "name": "Diemelsee NRW-Ufer",
+    "region": "Sauerland/Siegerland/Bergisches",
+    "lat": 51.366,
+    "lng": 8.731,
+    "type": "Stausee/Grenzgewässer",
+    "status": "public",
+    "score": 76,
+    "fish": [
+      "Hecht",
+      "Zander",
+      "Barsch",
+      "Karpfen",
+      "Aal",
+      "Seeforelle"
+    ],
+    "methods": [
+      "Ansitzangeln",
+      "Spinnfischen",
+      "Bootsangeln nach Regelung"
+    ],
+    "legal": "Fischereischein + Erlaubnisschein; Bundesland-/Uferabschnitte und Bootsregeln beachten.",
+    "source": "https://www.diemelsee.de/",
+    "notes": "Grenzgewässer Hessen/NRW sauber abgrenzen."
+  }
+]
