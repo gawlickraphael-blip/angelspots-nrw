@@ -19,9 +19,10 @@ Das Projekt ist jetzt so vorbereitet, dass die kombinierte NRW+Hagen-App direkt 
 
 - `/home/gawli/angelspots-hagen/index.html` → kombinierte App
 - `/home/gawli/angelspots-hagen/index_nrw.html` → gleiche kombinierte App/Arbeitsdatei
+- `/home/gawli/angelspots-hagen/app.js` und `styles.css` → ausgelagerter App-Code für aktive CSP
+- `/home/gawli/angelspots-hagen/vendor/` → lokal vendored Leaflet/Markercluster-Dateien
 - `/home/gawli/angelspots-hagen/data/` → Datendateien
 - `/home/gawli/angelspots-hagen/manifest.webmanifest` → mobile App-/Homescreen-Metadaten
-- `/home/gawli/angelspots-hagen/index_hagen_legacy.html` → alte reine Hagen-App als Backup
 
 ## Cloudflare Pages Weg A: Direkt-Upload
 
@@ -59,5 +60,13 @@ http://127.0.0.1:8766/
 ## Wichtig
 
 - Standortfreigabe funktioniert auf Handys zuverlässig nur über HTTPS. Cloudflare Pages/GitHub Pages lösen das automatisch.
-- Ortssuche nutzt Nominatim/OpenStreetMap. Für private Nutzung ok; bei viel Traffic später eigenen Geocoder/Cache überlegen.
 - Die Seite ist Recherchehilfe, keine Rechtsfreigabe fürs Angeln.
+- Die aktive CSP in `_headers` erlaubt Skripte nur von `self`; Leaflet/Markercluster sind deshalb lokal im `vendor/`-Ordner enthalten.
+- Service Worker und Cloudflare-Header sind auf kurze Revalidierung für App-Code/Vendor-Dateien eingestellt, damit Sicherheitsupdates nicht dauerhaft aus altem Cache laufen.
+- Drittanbieteraufrufe aus dem Browser:
+  - OpenStreetMap-Tiles für Kartenkacheln
+  - Nominatim/OpenStreetMap für Ortssuche; für viel Traffic später eigenen Geocoder/Cache überlegen
+  - Open-Meteo für Wetterdaten
+  - PEGELONLINE/WSV für Pegel-Näherungen
+  - Wikimedia/Commons für Fischbilder
+  - Google Maps/Apple Maps/OpenStreetMap nur, wenn ein Nutzer einen Routenlink öffnet

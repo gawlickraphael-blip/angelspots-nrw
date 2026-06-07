@@ -1,8 +1,18 @@
-const CACHE_VERSION = 'angelspots-nrw-v2';
+const CACHE_VERSION = 'angelspots-nrw-v3-secure';
 const APP_SHELL = [
   '/',
   '/index.html',
   '/index_nrw.html',
+  '/styles.css',
+  '/app.js',
+  '/vendor/leaflet/leaflet.css',
+  '/vendor/leaflet/leaflet.js',
+  '/vendor/leaflet/images/marker-icon.png',
+  '/vendor/leaflet/images/marker-icon-2x.png',
+  '/vendor/leaflet/images/marker-shadow.png',
+  '/vendor/markercluster/MarkerCluster.css',
+  '/vendor/markercluster/MarkerCluster.Default.css',
+  '/vendor/markercluster/leaflet.markercluster.js',
   '/manifest.webmanifest',
   '/assets/fish-placeholder.svg',
   '/data/fish_profiles.json',
@@ -82,12 +92,5 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  event.respondWith(
-    caches.match(request).then(cached => cached || fetch(request).then(response => {
-      if (!response || !response.ok) return response;
-      const copy = response.clone();
-      caches.open(CACHE_VERSION).then(cache => cache.put(request, copy));
-      return response;
-    }))
-  );
+  event.respondWith(networkFirst(request));
 });

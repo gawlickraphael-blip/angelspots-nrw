@@ -35,9 +35,23 @@ npm run check
 
 Prüft:
 
-- Inline-JavaScript in `index.html`
-- Inline-JavaScript in `index_nrw.html`
+- externe App-Skripte `app.js`, `sw.js` und vendored Leaflet-Dateien auf Syntax
+- keine Inline-Skripte, Inline-Styles oder HTML-Eventhandler in `index.html`/`index_nrw.html`
+- UI-Pflichtfeatures/Fischprofile
 - `manifest.webmanifest`
+
+## Datenschutz/Abhängigkeiten
+
+Die App hat kein eigenes Backend und speichert Favoriten/Notizen/Tagebuch lokal im Browser. Für Karten- und Live-Funktionen werden aber Drittanbieter direkt vom Gerät des Nutzers aufgerufen:
+
+- OpenStreetMap-Tiles für Kartendarstellung
+- Nominatim/OpenStreetMap für Ortssuche
+- Open-Meteo für Wetter/7-Tage-Planer
+- PEGELONLINE/WSV für Pegel-Näherungen
+- Wikimedia/Commons für Fischbilder, falls im Fischprofil verlinkt
+- Google Maps, Apple Maps oder OpenStreetMap nur beim bewussten Öffnen von Routenlinks
+
+Wenn die App öffentlich wächst, sollten Geocoder/Live-Daten ggf. über eigene Caches/Proxy-Regeln und ein Datenschutztext sauber dokumentiert werden.
 
 ## Deployment
 
