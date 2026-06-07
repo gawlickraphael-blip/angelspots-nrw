@@ -15,6 +15,7 @@ node_modules/
 .npm/
 dist/
 build/
+.wrangler/
 
 # Local screenshots/cache
 screenshots/
