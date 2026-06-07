@@ -130,7 +130,7 @@
   },
   "Rotauge": {
     "scientific": "Rutilus rutilus",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rutilus_rutilus_Prague_Vltava_2.jpg/960px-Rutilus_rutilus_Prague_Vltava_2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Blausteinsee_Tierwelt_03.jpg",
     "description": "Sehr häufiger Friedfisch in Seen, Flüssen und Kanälen. Wichtig als Beutefisch für Räuber und klassischer Zielfisch beim Stippen.",
     "season": "Keine NRW-Basis-Schonzeit in der App hinterlegt; lokale Regeln prüfen.",
     "minSizeCm": "lokal prüfen",
@@ -181,7 +181,7 @@
   },
   "Weißfisch": {
     "scientific": "verschiedene Cypriniden",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rutilus_rutilus_Prague_Vltava_2.jpg/960px-Rutilus_rutilus_Prague_Vltava_2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Blausteinsee_Tierwelt_03.jpg",
     "description": "Sammelbegriff für mehrere Friedfischarten wie Rotauge, Brasse oder Döbel. Für genaue Regeln immer die konkrete Art bestimmen.",
     "season": "Art bestimmen und lokale Regeln prüfen.",
     "minSizeCm": "artabhängig prüfen",
@@ -189,7 +189,7 @@
   },
   "Zander": {
     "scientific": "Sander lucioperca",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sander_lucioperca_2.jpg/960px-Sander_lucioperca_2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zander.jpg",
     "description": "Lichtscheuer Raubfisch mit Glasaugen und spitzen Zähnen. Häufig an Kanten, Steinpackungen, Häfen und trübem Wasser; Schonzeit besonders beachten.",
     "season": "Schonzeit NRW-Basis: 01.04.–31.05. prüfen; währenddessen gezieltes Zanderangeln vermeiden.",
     "minSizeCm": "40 cm prüfen",

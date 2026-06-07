@@ -8,7 +8,9 @@ for (const name of required) {
   for (const field of ['scientific', 'image', 'description', 'season', 'minSizeCm', 'source']) {
     if (!(field in p)) throw new Error(`${name}: missing field ${field}`);
   }
-  if (!String(p.image).startsWith('https://')) throw new Error(`${name}: image must be https`);
+  if (!String(p.image).startsWith('https://') && !String(p.image).startsWith('assets/')) throw new Error(`${name}: image must be https or local asset`);
   if (!String(p.description).includes('.')) throw new Error(`${name}: description too short`);
 }
+if (!profiles.Rotauge.image.includes('Blausteinsee_Tierwelt_03.jpg')) throw new Error('Rotauge image must use working original Wikimedia file');
+if (!profiles.Zander.image.endsWith('/2/2f/Zander.jpg')) throw new Error('Zander image must use working original Wikimedia file');
 console.log(`fish profiles ok (${Object.keys(profiles).length} entries)`);
