@@ -1,0 +1,7 @@
+name = "angelspots-nrw"
+pages_build_output_dir = "."
+compatibility_date = "2026-06-07"
+
+# Für Deploy per CLI wird zusätzlich benötigt:
+# CLOUDFLARE_API_TOKEN=<Pages-Edit-Token>
+# CLOUDFLARE_ACCOUNT_ID=<Cloudflare Account ID>
