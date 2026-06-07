@@ -6,6 +6,7 @@ const requiredSnippets = [
   ['Favoriten-Filter', 'id="favOnly"'],
   ['Favoriten-Zähler', 'id="sFav"'],
   ['Fischarten-Modal', 'id="fishModal"'],
+  ['Datenschutz/Hinweise-Link', 'legal.html'],
 ];
 const appSnippets = [
   ['localStorage-Key', 'angelspots:nrw:favorites'],

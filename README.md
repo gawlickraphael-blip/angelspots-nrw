@@ -13,6 +13,7 @@ Mobile-first Angelspot-Web-App für NRW mit Hagen-Fokus.
 - Live-Wetter, 7-Tage-Planer und Pegel-Näherung, wo passend
 - Mobile Bottom-Sheet-Detailansicht
 - PWA-Manifest für Homescreen-Nutzung
+- Datenschutz-/Hinweise-Seite für öffentliche Beta
 
 ## Lokal starten
 

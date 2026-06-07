@@ -19,6 +19,7 @@ Das Projekt ist jetzt so vorbereitet, dass die kombinierte NRW+Hagen-App direkt 
 
 - `/home/gawli/angelspots-hagen/index.html` → kombinierte App
 - `/home/gawli/angelspots-hagen/index_nrw.html` → gleiche kombinierte App/Arbeitsdatei
+- `/home/gawli/angelspots-hagen/legal.html` → Datenschutz-/Hinweise-Seite für die öffentliche Beta
 - `/home/gawli/angelspots-hagen/app.js` und `styles.css` → ausgelagerter App-Code für aktive CSP
 - `/home/gawli/angelspots-hagen/vendor/` → lokal vendored Leaflet/Markercluster-Dateien
 - `/home/gawli/angelspots-hagen/data/` → Datendateien

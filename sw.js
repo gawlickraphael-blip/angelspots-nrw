@@ -3,6 +3,7 @@ const APP_SHELL = [
   '/',
   '/index.html',
   '/index_nrw.html',
+  '/legal.html',
   '/styles.css',
   '/app.js',
   '/vendor/leaflet/leaflet.css',

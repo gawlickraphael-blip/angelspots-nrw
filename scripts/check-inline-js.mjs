@@ -14,7 +14,7 @@ for (const file of files) {
   console.log(`${file}: JS ok (${script.length} chars)`);
 }
 
-for (const file of ['index.html', 'index_nrw.html']) {
+for (const file of ['index.html', 'index_nrw.html', 'legal.html']) {
   const html = readFileSync(file, 'utf8');
   if (html.includes('<script>') || html.includes('<style>') || /\son[a-z]+\s*=|\sstyle\s*=/.test(html)) {
     throw new Error(`${file}: inline script/style/event handler found`);
