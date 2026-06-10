@@ -7,6 +7,9 @@ const requiredSnippets = [
   ['Favoriten-Zähler', 'id="sFav"'],
   ['Fischarten-Modal', 'id="fishModal"'],
   ['Datenschutz/Hinweise-Link', 'legal.html'],
+  ['Sortierung', 'id="sortBy"'],
+  ['Filter zurücksetzen', 'id="resetFilters"'],
+  ['Ergebnis-Zusammenfassung', 'id="resultSummary"'],
 ];
 const appSnippets = [
   ['localStorage-Key', 'angelspots:nrw:favorites'],
@@ -25,6 +28,10 @@ const appSnippets = [
   ['Delegierte List-Buttons', 'data-open-id'],
   ['Mobile Aktionsbuttons', 'class="actions"'],
   ['Sichere Event-Delegation', 'function initSafeEventDelegation'],
+  ['Kanonische Gewässerfilter', 'function canonicalWaterType'],
+  ['Kanonische Methodenfilter', 'function canonicalMethod'],
+  ['Sortierfunktion', 'function compareSpots'],
+  ['Filter-Reset', 'function resetFilters'],
 ];
 
 for (const file of htmlFiles) {

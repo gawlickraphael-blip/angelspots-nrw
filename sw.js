@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'angelspots-nrw-v3-secure';
+const CACHE_VERSION = 'angelspots-nrw-v4-ux-sort-filters';
 const APP_SHELL = [
   '/',
   '/index.html',
