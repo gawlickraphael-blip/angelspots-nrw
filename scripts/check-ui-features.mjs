@@ -32,6 +32,16 @@ const appSnippets = [
   ['Kanonische Methodenfilter', 'function canonicalMethod'],
   ['Sortierfunktion', 'function compareSpots'],
   ['Filter-Reset', 'function resetFilters'],
+  ['Gastkarten-Button', 'function permitAction'],
+  ['Anfänger-Praxisbox', 'function renderBeginnerBox'],
+  ['Wetter-Ampel', 'function fishingAmpel'],
+  ['Beste Zeitfenster', 'function timeWindowText'],
+  ['Private Spots Store', 'angelspots:nrw:private-spots'],
+  ['Private Spots Panel', 'function renderPrivateSpotPanel'],
+  ['Private Spot speichern', 'function savePrivateSpot'],
+  ['Erweiterte Tagebuchfelder', 'diaryBait'],
+  ['Tagebuch-Statistik', 'function renderDiaryInsights'],
+  ['Rechtlicher Spot-Hinweis', 'Diese App ersetzt keine Gewässerordnung'],
 ];
 
 for (const file of htmlFiles) {

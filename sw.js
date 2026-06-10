@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'angelspots-nrw-v4-ux-sort-filters';
+const CACHE_VERSION = 'angelspots-nrw-v5-practice-private-diary';
 const APP_SHELL = [
   '/',
   '/index.html',
