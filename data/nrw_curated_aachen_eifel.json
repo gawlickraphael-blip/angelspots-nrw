@@ -303,7 +303,7 @@
     "lat": 50.738,
     "lng": 6.217,
     "type": "Angelpark",
-    "status": "public",
+    "status": "unclear",
     "score": 73,
     "fish": [
       "Regenbogenforelle",
@@ -318,7 +318,7 @@
     ],
     "legal": "Hausordnung/Tageskarte/Besatz- und Fangregeln beim Betreiber prüfen.",
     "source": "https://www.google.com/search?q=Angelpark+Breinig+Stolberg",
-    "notes": "Kommerzielle Teichanlage; Betriebsdaten aktuell gegenprüfen."
+    "notes": "Kommerzielle Teichanlage; Betriebsdaten aktuell gegenprüfen. Keine belastbare Betreiberquelle hinterlegt; nur Recherchekandidat, kein bestätigter Spot."
   },
   {
     "id": "dreilaegerbachtalsperre-roetgen",

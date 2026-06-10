@@ -56,14 +56,20 @@ self.addEventListener('message', event => {
   }
 });
 
-async function networkFirst(request, fallbackUrl = '/index.html') {
+async function networkFirst(request, fallbackUrl) {
   const cache = await caches.open(CACHE_VERSION);
   try {
     const response = await fetch(request);
     if (response && response.ok) cache.put(request, response.clone());
     return response;
   } catch (error) {
-    return (await cache.match(request)) || cache.match(fallbackUrl);
+    const cached = await cache.match(request, { ignoreSearch: true });
+    if (cached) return cached;
+    if (fallbackUrl) {
+      const fallback = await cache.match(fallbackUrl);
+      if (fallback) return fallback;
+    }
+    throw error;
   }
 }
 
@@ -84,7 +90,7 @@ self.addEventListener('fetch', event => {
   if (url.origin !== self.location.origin) return;
 
   if (request.mode === 'navigate') {
-    event.respondWith(networkFirst(request));
+    event.respondWith(networkFirst(request, '/index.html'));
     return;
   }
 
