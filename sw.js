@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'angelspots-nrw-v6-cinematic-dark';
+const CACHE_VERSION = 'angelspots-nrw-v7-declutter';
 const APP_SHELL = [
   '/',
   '/index.html',
