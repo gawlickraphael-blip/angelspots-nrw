@@ -120,7 +120,7 @@
     "lat": 52.163,
     "lng": 8.855,
     "type": "Angelpark",
-    "status": "public",
+    "status": "unclear",
     "score": 65,
     "fish": [
       "Regenbogenforelle",
@@ -136,7 +136,7 @@
     ],
     "legal": "Kommerzieller Angelpark; Tages-/Teichregeln und Öffnungszeiten beachten.",
     "source": "https://www.google.com/search?q=Angelparadies+Vlotho",
-    "notes": "Betreiberinfos vor Besuch validieren."
+    "notes": "Betreiberinfos vor Besuch validieren. Keine belastbare Betreiberquelle hinterlegt; nur Recherchekandidat, kein bestätigter Spot."
   },
   {
     "id": "ssb-bevertalsperre",

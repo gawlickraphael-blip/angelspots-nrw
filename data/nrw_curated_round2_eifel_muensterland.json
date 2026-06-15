@@ -178,7 +178,7 @@
     "lat": 50.6108,
     "lng": 6.6504,
     "type": "Angelpark",
-    "status": "public",
+    "status": "unclear",
     "score": 60,
     "fish": [
       "Regenbogenforelle",
@@ -194,7 +194,7 @@
     ],
     "legal": "Kommerzieller Angelpark; Betreiberregeln, Öffnungszeiten und Fanglimits beachten.",
     "source": "https://www.google.com/search?q=Angelpark+Kommern",
-    "notes": "Paylake-Kandidat in der Eifel."
+    "notes": "Paylake-Kandidat in der Eifel. Keine belastbare Betreiberquelle hinterlegt; nur Recherchekandidat, kein bestätigter Spot."
   },
   {
     "id": "ms-drilandsee-gronau",
