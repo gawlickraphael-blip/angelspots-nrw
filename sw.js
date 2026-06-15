@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'angelspots-nrw-v5-practice-private-diary';
+const CACHE_VERSION = 'angelspots-nrw-v8-sheet-motion';
 const APP_SHELL = [
   '/',
   '/index.html',
@@ -14,6 +14,10 @@ const APP_SHELL = [
   '/vendor/markercluster/MarkerCluster.css',
   '/vendor/markercluster/MarkerCluster.Default.css',
   '/vendor/markercluster/leaflet.markercluster.js',
+  '/vendor/fonts/inter-400.woff2',
+  '/vendor/fonts/inter-500.woff2',
+  '/vendor/fonts/inter-600.woff2',
+  '/vendor/fonts/inter-700.woff2',
   '/manifest.webmanifest',
   '/assets/fish-placeholder.svg',
   '/data/fish_profiles.json',
