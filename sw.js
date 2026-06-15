@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'angelspots-nrw-v7-declutter';
+const CACHE_VERSION = 'angelspots-nrw-v8-sheet-motion';
 const APP_SHELL = [
   '/',
   '/index.html',
