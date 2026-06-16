@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'angelspots-nrw-v8-sheet-motion';
+const CACHE_VERSION = 'angelspots-nrw-v9-aurora-dark';
 const APP_SHELL = [
   '/',
   '/index.html',
