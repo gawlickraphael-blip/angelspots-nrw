@@ -145,6 +145,8 @@ button:active{transform:scale(.97)}
 
 /* ---------- Spot list ---------- */
 .list{display:grid;gap:11px;margin-top:2px}
+.moreBtn{width:100%;margin-top:1px;padding:13px;border:1px dashed var(--line);border-radius:var(--r-sm);background:rgba(255,255,255,.02);color:var(--accent-text);font-weight:600;font-size:13px;cursor:pointer;transition:.16s var(--ease)}
+.moreBtn:hover{border-style:solid;border-color:var(--accent-line);background:var(--accent-soft);color:#fff}
 .spot{position:relative;cursor:pointer;border:1px solid var(--line);background:var(--surface);backdrop-filter:blur(8px);border-radius:var(--r);padding:15px;box-shadow:var(--ring);transition:transform .18s var(--ease),border-color .18s var(--ease),box-shadow .18s var(--ease)}
 .spot:hover{transform:translateY(-2px);border-color:var(--accent-line);box-shadow:var(--sh-2),0 0 0 1px var(--accent-soft)}
 .spot:active{transform:translateY(0) scale(.995)}
